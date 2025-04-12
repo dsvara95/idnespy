@@ -13757,3 +13757,1092 @@ if(MujPAS.prihlasen) dataLayer.push({'userType': 'member'});
 2025-04-12 12:38:37: ❌ Soutěžní odkaz nenalezen.
 2025-04-12 12:38:41: 🔍 Kontroluji článek: https://www.idnes.cz/karlovy-vary/zpravy/bar-dosty-kontrola-szpi-hlodavci-uzavreni-plesivec.A250305_101609_vary-zpravy_pkz
 2025-04-12 12:38:42: ❌ Soutěžní odkaz nenalezen.
+2025-04-12 12:51:48: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:49: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:49: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:49: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:49: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:49: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:49: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:50: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:50: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:50: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:50: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:51: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:51: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:51: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:51: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:52: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:52: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:52: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:52: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:52: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:53: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:53: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:54: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:54: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:54: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:54: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:55: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:55: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:55: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:55: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:56: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:56: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:56: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:57: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:57: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:57: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:57: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:58: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:58: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:59: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:51:59: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:52:00: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:52:00: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:52:00: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:52:01: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:52:01: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:52:02: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:52:02: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:52:02: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:52:02: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:52:03: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:52:03: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:52:04: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:52:04: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:52:05: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:52:05: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:52:05: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:52:05: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:52:06: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:52:06: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:52:07: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:52:07: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:52:08: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:52:08: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:52:09: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:52:09: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:52:09: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:53:42: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:53:42: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:53:43: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:53:43: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:53:43: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:53:44: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:53:44: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:53:44: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:53:44: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:53:44: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:53:45: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:53:45: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:53:45: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:53:45: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:53:45: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:53:46: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:53:46: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:53:46: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:53:46: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:53:47: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:53:47: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:53:47: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:55:28: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/zakaz-hnuti-pes-nebo-patriotu-vlada-posoudi-navrh-na-rozpusteni-stran.A250412_082230_domaci_doub
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/brno/zpravy/pacient-sebevrazda-sanitka-jedouci-vuz-jihomoravsky-kraj.A250412_083725_brno-zpravy_zdo
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/giorgia-meloniova-premier-italie-usa.A250411_194725_zahranicni_stud
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/karlovy-vary/zpravy/doprava-zeleznice-srazka-vysetrovani-obvineni-strojvedouci.A250411_163718_vary-zpravy_pkz
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/usa-deportace-propalestinsky-aktivista-chalil.A250412_071854_zahranicni_doub
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/cina-usa-rusko-cla-vanoce-vyroba-produkce-donald-trump.A250410_161403_eko-zahranicni_jla
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/pardubicky-kraj-nehoda-svitavy-vlak-auto-policka.A250411_203320_domaci_Ichuc
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/putin-witkoff-ruka-na-srdci-ukrajina-mir-jednani.A250411_173451_zahranicni_svm
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/trump-cla-obchodni-valka.A250412_080922_eko-zahranicni_fred
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/praseci-ledviny-americanka-ctyri-mesice.A250412_083405_zahranicni_fred
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/milos-zeman-peter-pellegrini-cesko-slovensko-prezident-fico.A250411_161253_domaci_Ichuc
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/usa-cina-cla-obchodni-valka-umela-intelgience-donald-trump-zesmesneni-legrace.A250411_181450_zahranicni_dtt
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/nehoda-letadlo-usa-trump-smrt-florida-maralago.A250411_180349_zahranicni_berr
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/turek-motoristi-vojtech-dobes-novinar.A250411_120646_domaci_fred
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/levne-potraviny-obchody-sit-pobocky.A250403_092149_ekonomika_vebe
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/jak-kdysi-vypadala-sahara.A250412_075959_zahranicni_doub
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/kliste-encefalitida-nemoc-zivot-riziko.A250411_202546_domaci_stud
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/usa-ukrajina-nerosty-vzacene-zeminy-dohoda-rusko-valka.A250411_200305_eko-zahranicni_remy
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/bolsonaro-nemocnice-brazilie-prezident.A250411_182010_zahranicni_svm
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/kiu-russian-officers-killed-in-ukraine-rozhovor-osint-projekt-dustojnici-ukrajina.A250410_154747_zahranicni_aha
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/kanada-usa-trump-superhrdina-canuck.A250411_150502_zahranicni_jhr
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/ceska-vrazda-tunisko-afrika-vezeni-urady-soud.A250411_211059_domaci_Ichuc
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/volby/petr-gazdik-byvaly-ministr-skoslvi-skonci-ve-snemovne-hnuti-stan-lidri.A250411_093811_volby_kop
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/vybuch-policske-strojirny-prelet-drony-sabotaz.A250411_170503_domaci_misl
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/ostrava/zpravy/cestujici-hromadna-doprava-ostrava-vykazani-cestujici.A250412_114830_ostrava-zpravy_zdo
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/digitalizace-stavebniho-rizeni-audit-zasadni-chyby.A250411_180915_domaci_misl
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/ceske-budejovice/zpravy/utok-pes-napadl-muz-neprezil-vlachovo-brezi-american-bully.A250411_153656_budejovice-zpravy_khr
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/na-260-tisic-ukrajinskych-uprchliku-by-mohlo-zustat-v-cesku.A250412_073956_domaci_doub
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/trump-lekarska-prohlidka-air-force-one.A250412_082148_zahranicni_fred
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/rusko-ukrajina-valka-usa-putin-podpora-diplomacie.A250411_203344_zahranicni_berr
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/reportaz-domov-daniela-autismus-dospeli-tezka-forma.A250402_132553_domaci_pitt
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/prechod-na-obnovitelne-zdroje-chteji-nejvic-volici-piratu.A250412_085018_domaci_doub
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/rusko-ukrajina-valka-znesveceni-poniceni-hrob-vojaci-padli.A250411_161441_zahranicni_dtt
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/inspekce-silnicni-dopravy-kontroly-ridici.A250411_150444_domaci_tml
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/ostrava/zpravy/parkovaci-mista-jen-pro-zeny-senov-obchodni-centrum-socialni-site.A250411_112702_ostrava-zpravy_dmk
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/v-rusku-klesla-vyroba-vodky-i-konaku.A250412_083431_eko-zahranicni_doub
+2025-04-12 12:55:28: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/nemecko-klettbach-rodina-smrt.A250411_104102_zahranicni_bro
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/jihlava/zpravy/nehoda-armada-vojsko-dalnice-d1-merin-vysocina.A250411_111537_jihlava-zpravy_mv
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/trump-ukrajina-pastor-burns-putin-valka.A250411_104205_zahranicni_jhr
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/prijimaci-zkousky-na-stredni-skoly-devataci-prvni-termin.A250410_142257_domaci_mls
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/usa-armada-gronsko-vance-trump-velitelka-susannah-meyers-odvolana.A250411_095912_zahranicni_kha
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/plzen/zpravy/soud-vrazda-senior-rozsudek-plzen-lipova-chata.A250411_114031_plzen-zpravy_pkz
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/wiki/kultura/simona-monyova.K457909
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/prijimaci-zkousky-pro-ctyrlete-obory-vysledky-matematika-cestina-2025-kviz.A250411_102718_domaci_mls
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/jihlava/zpravy/pozar-lesa-jihlava-treti-stupen-poplachu-hasici.A250411_124425_jihlava-zpravy_ikul
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/plzen/zpravy/policie-znasilneni-objasneni-genetika-dna-plzen.A250411_130124_plzen-zpravy_pkz
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/soud-via-chem-group-petr-sisak-rozsudek-soud.A250410_140714_domaci_mul
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/praha-bolt-uber-taxi-ridic-drogy-pravidla-stavka.A250407_212846_praha-zpravy_vals
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/liberec/zpravy/vlak-zeleznice-doprava-polsko-zitava-hradek-modernizace.A250411_143243_liberec-zpravy_lav
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/hradec-kralove/zpravy/vysetrovani-gibs-zadrzeni-vraha-vrazda-prodavacky-action-zasahovka.A250411_120531_hradec-zpravy_the
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/demonstrace-zena-utok-nozem-prestupek.A250411_122355_domaci_mul
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/olomouc/zpravy/hustopece-nad-becvou-benzen-sanace-cisteni-vody-filtry.A250411_124248_olomouc-zpravy_stk
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/prazsky-hrad-den-otevrenych-dveri-katedrala-vstup-zdarma.A250411_100642_domaci_row
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/usti/zpravy/u-kojota-pozar-penize-sbirka-most-magistrat-rozdeli-miliony.A250411_105040_usti-zpravy_grr
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/kultura/vytvarne-umeni/jan-vytiska-apokalypsa-vystava-v-trafo-gallery.A250411_095330_vytvarne-umeni_rts
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/ukrajina-popravy-zajatcu.A250411_121852_zahranicni_aha
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/olomouc/zpravy/jesenicko-povodne-zaplavy-polsko-lidske-ostatky-pohresovani.A250411_141406_olomouc-zpravy_stk
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/liberec/zpravy/nehoda-frydlant-most-policie-zachranari-hasici-ulice-miru.A250411_131341_liberec-zpravy_lav
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/tchaj-wan-cina-kabely-more-napeti.A250411_112009_zahranicni_mikp
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/pardubice/zpravy/nehoda-chroustovice-naraz-auto-prerazilo-strom.A250411_140548_pardubice-zpravy_lati
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/strelba-firma-jiloviste-policie-postrelene-bricho-vrtulnik.A250411_134321_praha-zpravy_slv
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/david-bendels-fotomontaz-faeserova-hanobeni-politiku-soud.A250409_192032_zahranicni_vals
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/vlak-praha-liben-soud-opily-strojvudce-nehoda-zraneni.A250411_131757_praha-zpravy_svm
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/podvodny-telefonat-falesni-policiste-bankeri-penize.A250411_095345_domaci_ikul
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/prada-versace-moda.A250411_090634_eko-zahranicni_elsy
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/usti/zpravy/pozar-restaurace-u-kojota-most-popaleniny-tragedie.A250410_124841_usti-zpravy_pakr
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/kultura/divadlo/hana-divadlo-na-vinohradech-mornstajnova-recenze.A250411_102320_divadlo_ts
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/brno/zpravy/policie-honicka-ridicka-pit-manevr-video.A250411_130549_brno-zpravy_mos1
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/cecensko-policiste-rusko-kadyrov.A250411_134659_zahranicni_jhr
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/inspekce-silnicni-dopravy-kontroly-ridici.A250411_150444_domaci_tml
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/usti/zpravy/pokus-o-vrazdu-bodnuti-zraneni-nemocnice-obvineni-vazba.A250411_133540_usti-zpravy_grr
+2025-04-12 12:55:28: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/devataky-trapila-slozita-matematika-u-prijimacek-anketa.A250411_124407_domaci_doub
+2025-04-12 12:55:28: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/liberec/zpravy/zubacka-oprava-zeleznice-jizerske-hory-krkonose-trat-doprava.A250411_092203_liberec-zpravy_lav
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/petr-fiala-premier-sit-x-pachatel-hacker.A250411_101501_domaci_mikp
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/babybox-mimino-odlozeni-rodice-sestry-boromejky.A250411_085715_zahranicni_fred
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/cina-cla-usa-export-trump-import.A250411_105102_eko-zahranicni_ven
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/prazsky-okruh-nakladak-kamion-nehoda-smrt-policie.A250411_093312_praha-zpravy_fred
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/solek-czech-services-upadek-dluh-reorganizace.A250411_092608_ekonomika_rie
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/usa-jemen-valka-donald-trump-husiove-raketa-dron-namornictvo.A250410_170647_zahranicni_krd
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/cena-zlata-ekonomika-penize-americky-dolar-cla-trump.A250411_084532_zahranicni_mikp
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/brno/zpravy/evropska-vystava-psu-vystaviste-veletrhy.A250411_081414_brno-zpravy_mos1/foto
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/sergej-medvedev-komentar-oveckin-hokej-valka.A250410_111459_zahranicni_aha
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/kara-trutnov-zdenek-rinth-kozesiny-natland.A250410_185017_domaci_mikp
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/pet-lahve-zaloha-petr-hladik-ministr-vlada-zivotni-prostredi.A250410_185022_domaci_krd
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/revue/spolecnost/patrik-berger-jakub-stafek-vysehrad-dvje-film-fotbal-lavi.A250410_847887_lidicky_varg
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/podniky/csob-index-ocekavani-firem-energie-trump.A250410_142715_ekoakcie_alis
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/jan-soucek-ct-rada-ct-vlastimil-jezek-generalni-reditel-odvolani.A250411_102334_domaci_mikp
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/velka-britanie-ukrajina-rusko-valka-agrese-vojaci-keir-starmer-eu-londyn.A250411_064828_zahranicni_mikp
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/nehoda-d0-prazsky-okruh-modletice-mrtvy.A250410_171310_praha-zpravy_epkbn
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/americke-letectvo-stihacka-letoun-frankenjet.A250410_202043_zahranicni_kurl
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/donald-trump-usa-cina-cla-protekcionisticka-politika-obchod.A250410_130132_eko-zahranicni_jla
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/vrtulnik-nehoda-hudson-siemens-umrti.A250411_085901_zahranicni_bur
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ostrava/zpravy/vybuch-exploze-nydek-propanbutan-lahev-hasici-zraneni.A250410_140554_ostrava-zpravy_jog
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/wiki/temata/farmarske-trhy-praha-kdy-probihaji-trhy-na-naplavce.A250404_092605_temata_zust
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/australie-plejtvak-obrovsky-kosatka-flora-fauna.A250411_070732_zahranicni_mikp
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/velvyslankyne-usa-na-ukrajine-brinkova.A250410_201852_zahranicni_remy
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zlin/zpravy/luhacovice-kradez-klenotnictvi-petruvka-identikit-patrani.A250411_094129_zlin-zpravy_epfoj
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/hamas-izrael-britanie-terorismus-palestina-genocida-evropske-umluvy-o-lidskych-pravech.A250410_103451_zahranicni_jhr
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/brno/zpravy/zaskolactvi-zakladni-skola-skolaci-omluvenky-merhautova-absence.A250410_847853_brno-zpravy_azu
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/norske-fondy-cesko-finance-11-miliard.A250411_104709_domaci_tbr
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/brno/zpravy/konflikt-cizinci-napadeni-ksirova-bitka.A250411_084108_brno-zpravy_mos1
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/rozstrel-katerina-konecna-stacilo-kscm-koalice-dane-levice.A250410_150407_domaci_vov
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/izrael-pasmo-gazy-rukojmi-protest-benjamin-netanjahu.A250410_201101_zahranicni_dtt
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/nehoda-vrtulnik-new-york-hudson.A250410_220027_zahranicni_remy
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/praha-karlin-kradez-loupez-penize-pachatel-trest.A250410_175258_praha-zpravy_mikp
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/polsko-drubez-vejce-export-evropska-komise.A250411_103813_eko-zahranicni_ven
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/ncoz-policista-detektiv-zaloba-soud-politika-komisar-zlocin.A250410_194419_domaci_krd
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/soudce-kafka-chorvatsko-vazba-policie-podvod.A250410_094220_domaci_lysa
+2025-04-12 12:55:29: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/pardubice/zpravy/policie-verejne-zakazky-pardubice-zasah-urad-policie.A250410_084123_pardubice-zpravy_mvo
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/revue/spolecnost/helena-trestikova-michael-trestik-manzelske-etudy-manzelstvi-vyroci-tomas-trestik-hana-trestikova.A250410_152925_lidicky_nh
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/karlovy-vary/zpravy/zraneni-uklid-spadla-okno-policie-mestska-policie-zachranka.A250410_123152_vary-zpravy_pkz
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/kultura/divadlo/salome-narodni-divadlo-brno-recenze.A250410_130104_divadlo_era
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/hradec-kralove/zpravy/dite-zachrana-aupark-hradec-kralove-nebezpecne-vyklaneni.A250410_150100_hradec-zpravy_the
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/rusko-usa-vymena-veznu-abu-zabi.A250410_125607_zahranicni_dtt
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/stinova-vlada-ano-cla-americky-prezident-trump.A250410_100337_domaci_kop
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/olomouc/zpravy/nemocnice-deti-porod-ve-stejny-den-dvojcata-sestry-rarita.A250410_134856_olomouc-zpravy_stk
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/volby/jak-spolu-se-stan-budou-bojovat-o-volice.A250410_125520_volby_doub
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/praha-nejvyssi-statni-zastupitelstvi-nsz-brno-soud.A250410_145113_domaci_mikp
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/izrael-vojaci-palestina-pasmo-gazy-naraznikova-zona.A250410_112115_zahranicni_jhr
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/trump-cla-odklad-usa-tarify-bily-dum-burza-ekonomika-evropa-evropska-unie.A250410_132609_eko-zahranicni_jadv
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/kultura/film-televize/cannes-festival-karavan-geislerova.A250410_120733_filmvideo_ts
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/trump-burza-djt.A250410_122143_eko-zahranicni_ven
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ceske-budejovice/zpravy/pes-utok-napadeni.A250410_130421_budejovice-zpravy_khr
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/nova-tramvaj-skoda-52t-zkusebni-provoz-dpp-hromadna-doprava.A250410_142120_praha-zpravy_lysa
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ostrava/zpravy/liberty-ostrava-klement-gottwald-umeni-aukce.A250410_161649_ostrava-zpravy_tmps
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/donald-trump-vlasy-sprcha-vynos-narizeni-prohlaseni-bily-dum.A250410_150846_zahranicni_mikp
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/nehody-auto-pojistovna-volant-policie-iniciativa-autonehoda-spech.A250410_122150_domaci_mikp
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/liberec/zpravy/zena-mrtva-ujma-na-zdravi-smrt-visnova-policie-obvineni.A250410_102421_liberec-zpravy_jape
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/trump-fox-news-cla.A250410_094435_zahranicni_ert
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/usti/zpravy/policie-falesny-unos-penize-vykupne.A250410_143533_usti-zpravy_pakr
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/miliardari-bohatstvi-bloomberg-billionaires-index-trhy-clo-donald-trump.A250410_101530_eko-zahranicni_rie
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/david-marek-poradce-prezidenta-konci-ekonom.A250410_091900_domaci_mul
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ostrava/zpravy/nehdoa-d48-uzavreno-policie-dalnice-doprava.A250410_092733_ostrava-zpravy_jog
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/plzen/zpravy/stary-plzenec-vyhruzky-sekera-muz-zajisteni-alkohol.A250410_134614_plzen-zpravy_jzk
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zlin/zpravy/materska-skola-zakon-vlada-obce-nespokojeni-starostove.A250404_846334_zlin-zpravy_epfoj
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/turecko-hotel-pozar-kartalkaya-lyzarske-stredisko.A250410_171907_zahranicni_tmps
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/karlovy-vary/zpravy/policie-alkohol-prodej-nezletily-bezvedomi-sokolov.A250410_132221_vary-zpravy_pkz
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/kultura/film-televize/julie-mlci-film-recenze.A250408_193857_filmvideo_spm
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/trump-cla-cina-usa-hollywood.A250410_170245_eko-zahranicni_remy
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/donald-trump-usa-trh-manipulace-vysetrovani-kongres.A250410_160141_zahranicni_dtt
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/cestovani/tipy-na-vylet/rakousko-letni-dovolena-sezona-cestovani.A250409_093307_domaci_rtn
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/mediahub/tv-nova-anna-lenerova-oneplay.A250410_135816_mediahub_jpl
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/stefanikuv-most-revolucni-letensky-tunel-naplavka-schodiste.A250410_123525_praha-zpravy_lysa
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/francie-skola-mobilni-telefon-zakaz.A250410_183519_zahranicni_dtt
+2025-04-12 12:55:29: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/plzen/zpravy/labutak-trener-plzen-kanoista-radbuza-ochranci-zvirat-desop-makon.A250410_085204_plzen-zpravy_jzk
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/lebron-james-mattel-prvni-ken-sportovec-cla-cina-usa-zdrazeni.A250410_074444_eko-zahranicni_ikul
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/amazon-cina-prodejci-odchod-cla-trump.A250410_085737_eko-zahranicni_vebe
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/telegram-vck-ogpu-rusko-pavel-durov.A250409_125157_zahranicni_aha
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/jehuda-cohen-nimrod-cohen-hamas-izrael-rukojmi-zpoved.A250405_101739_zahranicni_tof
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/liberec/zpravy/zranena-seniorka-pomoc-zlodej-okradl.A250410_080758_liberec-zpravy_jape
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/usa-cla-trump-pozastaveni-platnosti.A250409_193141_eko-zahranicni_tbr
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/inflace-ceska-republika-potraviny-pohonne-hmoty-ceny-spotrebitelske.A250410_090303_ekonomika_alis
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/kultura/hudba/lucie-koncert-krest-robert-kodym-viktor-dyk.A250410_090148_hudba_jgo
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/donald-trump-junior-amerika-cesko-rumunsko-volby.A250410_091357_zahranicni_tmps
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/cech-viden-jizda-na-strese-metra-smrt-darcovstvi-organu.A250410_095950_zahranicni_tbr
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/usa-cina-spotrebitele-pandemie-obchody-zasoby-zbozi.A250408_161332_eko-zahranicni_jla
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/mediahub/radioprojekt-vysledky-2-pololeti-2024.A250410_090050_mediahub_jpl
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/drony-mykolajiv-moskva-kyjev-uzavrena-letiste-valka.A250410_071220_zahranicni_ikul
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/usti/zpravy/teplice-zaci-zs-projekt-cedu-menstruacni-pomucky-vlozky-hygiena.A250410_100515_usti-zpravy_pakr
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/francie-macron-palestina-stat.A250409_210719_zahranicni_tmps
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/alexej-zubrickij-iss-bajkonur-rusko.A250410_093822_zahranicni_aha
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/demografie-nizka-porodnost-technologie-rodicovstvi.A250410_085513_domaci_mul
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/volby/robert-plaga-ministr-skolstvi-babis-ano-volby-rustina-bek.A250409_183921_domaci_vals
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/karlovy-vary/zpravy/projekt-dvorakovy-sady-kavarna-cerna-stavba.A250410_083142_vary-zpravy_pkz
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/cina-usa-eu-cla-elektroauta.A250410_070048_eko-zahranicni_ijan
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/rusky-general-ivan-popov-navrat-do-armady-velitel.A250410_064731_zahranicni_ikul
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/ukrajina-rusko-valka-cina-volodymyr-zelenskyj-vojaci-zajeti.A250409_200411_zahranicni_dtt
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/pocasi-pominou-nocni-mrazy-otepleni-prehanky.A250410_060214_domaci_ikul
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/cina-usa-panama-hegseth.A250410_084901_zahranicni_jhr
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/trump-cla-odklad-usa-tarify-bily-dum-burza-ekonomika.A250410_091929_eko-zahranicni_ven
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/brno/zpravy/fiml-lajf-road-movie-reziser-jiri-strach-madl-herec-nataceni-kultura.A250410_080909_brno-zpravy_azu
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ostrava/zpravy/ostrava-bistro-u-bedricha-pozar-hasici-policie-zasah.A250410_074027_ostrava-zpravy_lysa
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/komentar-andrej-babis-skolni-obedy-valek-zdrazeni.A250410_090038_domaci_tof
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/obrana-armada-investice-vydaje-nato.A250409_140429_ekonomika_alis
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/zbynek-stanjura-prognoza-duben-ministerstvo-financi.A250410_085114_ekonomika_alis
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/donald-trump-pozastaveni-cla-japonsko-kanada-reakce.A250410_061731_eko-zahranicni_ijan
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/liberec/zpravy/policie-patrani-nesvepravny-muz-odesel-kolebava-chuze-mumlani.A250409_120832_liberec-zpravy_lav
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/reforma-vzdelani-zakladnich-skol-prvni-a-druhy-stupen.A250404_082717_domaci_rts
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/karlovy-vary/zpravy/policie-kradez-zlodej-zlatnictvi-sperky-diamanty-cheb.A250410_100218_vary-zpravy_pkz
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/mediahub/idnes-premium-max-the-last-of-us.A250407_125058_mediahub_bhar
+2025-04-12 12:55:29: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/zvyseni-poplatku-ceska-televize-a-cesky-rozhlas-budou-platit-i-vlastnici-mobilu-senat.A250409_050314_domaci_kop
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/rehka-povyseni-armada-pavel-prezident.A250409_163102_domaci_svm
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/stredni-skola-prijimaci-zkousky-kraj-devata-trida.A250409_075824_domaci_ikro
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/plzen/zpravy/hrebikovacka-vrazda-starosta-podnikatel-soud-hrebiky.A250409_135346_plzen-zpravy_svm
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/usa-cla-trump-odveta-82-procent.A250409_133000_eko-zahranicni_svm
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/olomouc/zpravy/hasici-pomoc-nehoda-vyprostovani-ridice-cestou-na-skoleni.A250409_151305_olomouc-zpravy_stk
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/blba-nalada-mlade-trapi-cena-bydleni-obavaji-se-take-trumpa-zjistil-pruzkum.A250409_111246_domaci_doub
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/eu-evropska-unie-cla-odvetna-trump-usa-zbozi-export-import.A250409_160728_eko-zahranicni_jadv
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/reporyje-starosta-pavel-novotny-odpadky-kontejnery-svoz.A250409_151528_praha-zpravy_fred
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/slovensko-covid-koronavirus-pandemie-odskodneni-pokuta.A250409_182732_zahranicni_dtt
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/pardubice/zpravy/nehoda-d35-privadec-stradoun-porsche-taycon-i-17-policie-hasici.A250409_174248_pardubice-zpravy_lati
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/petr-pavel-prezident-afrika-ghana-kpone-akkra-vamed-cesko.A250409_173935_domaci_tmps
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/usti/zpravy/masarykova-nemocnice-operace-predlokti-sablona-izrael.A250409_145759_usti-zpravy_grr
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/kultura/vytvarne-umeni/munzar-hlavacova-aukce-majetek-portret-umeni.A250409_154848_show_aktual_svm
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/kultura/divadlo/anna-slovackova-rozlouceni-pohreb.A250409_154631_divadlo_ts
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/fyzioterapeut-znasilneni-soud-kirchen-vezeni.A250409_131120_praha-zpravy_rtn
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/ukrajina-dron-sahid-rusko-valka-de-wever.A250409_142354_zahranicni_jhr
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/martin-vondrasek-platy-policiste-vojaci.A250409_180708_domaci_aoc
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/loupez-karlin-policie-prepadeni.A250409_161158_praha-zpravy_pari
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/mediahub/poplatek-rozhlas-televize-zvyseni-jak-platit.A250306_090045_domaci_ikul
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/pozar-narodni-divadlo-praha-skoda-pricina-nedopalek.A250409_174125_praha-zpravy_pp
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/nemecko-cdu-csu-konzervativni-unie-socialni-demokrate-spd.A250409_121701_zahranicni_jhr
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/cernochova-rehka-vojaci-platy-ministerstvo-obrany.A250409_082459_domaci_mul
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/republikani-wauquiez-francie-migranti-vyhosteni-saint-pierre-miquelon.A250409_140001_zahranicni_ert
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/mediahub/ceska-televize-jan-soucek-odmena.A250409_145016_mediahub_pari
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/donald-trump-usa-prezident-uhli-produkce-tezba-prikaz.A250409_110920_eko-zahranicni_jla
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/dopad-americkych-cel-na-obcany-a-firmy-vlada-pridani-policistum-euro.A250409_035855_domaci_kop
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/pozar-hasici-pristresek-bezdomovci.A250409_154439_praha-zpravy_pari
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/plzen/zpravy/pokus-o-znasilneni-park-bory-straznik-zadrzeli-obvineni.A250409_150631_plzen-zpravy_vb
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/trump-musk-navarro-tesla-ekonomika-cla.A250409_101848_zahranicni_jhr
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/prazske-stopy-lobbistu-romana-janouska-a-ivo-rittiga.A130615_1941051_praha-zpravy_sfo
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ceske-budejovice/zpravy/ustavni-soud-znasilneni-na-chate-bdsm-sadomaso-taborsko.A250409_151431_budejovice-zpravy_pkr
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/virolog-cerny-popisuje-virus-slintavky-a-kulhavky-a-jeji-ucinky-na-skot.A250408_124739_premium_tml
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/usa-cla-dluhopisy-podilove-penzijni-etf-fondy-cesko.A250409_165343_eko-zahranicni_tbr
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/sebevrah-metro-rajska-zahrada-straznici.A250409_141657_praha-zpravy_fred
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/rozsireni-skladka-caslav-dvojnasobna-kapacita-kraj-odvolani.A250409_134303_praha-zpravy_sani
+2025-04-12 12:55:29: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/mediahub/ct2-dokument-filozof-josef-smajs-valka-se-zemi.A250409_075017_mediahub_jpl
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/cla-vyjednavani-zeme-usa-trump.A250409_110216_zahranicni_ert
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/plzen/zpravy/ridic-ujel-nehoda-alkohol-syn-soudkyne-domazlice.A250409_094856_plzen-zpravy_vb
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/lubomir-volny-viktor-orban-vladimir-putin-billboard.A250409_094156_domaci_ikro
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/policie-zadrzeni-prostituce-nemecko-asie-narodni-centrala-proti-ogranizovanemu-zlocinu-ncoz-europol.A250409_121156_domaci_idh
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/ockovani-zakon-nejvyssi-soud.A250409_085049_domaci_fred
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/cina-rusko-ukrajina-valka-vojaci.A250409_104355_zahranicni_kha
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/rakovina-plic-prevence-vysetreni-pomoci-umele-inteligence.A250409_092513_domaci_pitt
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/exekutor-juraj-podkonicky-karna-zaloba-ministr-spravedlnosti-pavel-blazek.A250409_101051_domaci_mls
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/velka-britanie-anglie-system-osobni-udaje-predpoved-vrazdy-trestne-ciny-analyza-data-policie-statewa.A250409_123512_zahranicni_idh
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ostrava/zpravy/tatra-koprivnice-spory-promet-csg-materova-strnad-stv-invest.A250409_095623_ostrava-zpravy_pjen
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/rozstrel-matesova-ekonomka-celni-valka-trump-svetova-banka.A250408_142855_ekonomika_vov
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ostrava/zpravy/krajsky-soud-havirov-chlipnik-vezeni-odvolani.A250409_100958_ostrava-zpravy_jog
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/kultura/film-televize/bily-lotos-3-hbo-max-recenze.A250409_081618_filmvideo_ts
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/vypovedni-lhuta-zacne-dorucenim-vypovedi-prodlouzeni-zkusebn-doby.A250409_120918_domaci_kop
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/janousek-chambon-soud-odvolaci.A250409_112937_domaci_fred
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/skupina-konverzace-jemen-usa-vlada-novinar-goldberg-iphone.A250408_175824_zahranicni_krd
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/liberec/zpravy/policie-doprava-zakaz-rizeni-obvineni-auto-liberec.A250409_101630_liberec-zpravy_lav
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/rusko-ukrajina-valka-boje-drony-utoky-letiste-dnipro-charkov-kramatorsk.A250409_073029_zahranicni_idh
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/letoun-cina-stealth-j-36-video.A250409_094241_zahranicni_ert
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/rusko-ukrajina-valka-sumska-charkovska-oblast-ofenziva.A250409_130613_zahranicni_dtt
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/usa-trump-cla-memy-vtipy-videa-kolaze-tucnaci.A250409_113823_zahranicni_kha
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/ano-navrh-namitky-statni-podpora-stavebni-sporeni-ustavni-soud.A250409_090529_domaci_idh
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/dominikanska-republika-santo-domingo-nocni-bar-nestesti-nehoda-obeti-pocet.A250409_063315_zahranicni_idh
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/brno/zpravy/soud-pokus-o-vrazdu-pobodal-druzku-zarlil-vyhruzky-recidivista.A250409_130913_brno-zpravy_coch
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/krivoklatsko-narodni-park-nova-petice-tri-tisice-podpisu.A250409_093837_praha-zpravy_fred
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zlin/zpravy/medved-beskydy-horni-becva-chko-bernat-sulova.A250409_114056_zlin-zpravy_jfuk
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/plzen/zpravy/rukojmi-krimice-dite-druzka-napadl-unesl-vyskocil-z-okna-patrani-soud.A250409_092807_plzen-zpravy_vb
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/alternativa-pro-nemecko-afd-nemecko-strana.A250409_115510_zahranicni_jhr
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/kultura/film-televize/disney-snehurka-na-vlasku-film-pohadka-predelani-klasika.A250409_114739_filmvideo_svm
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/fiala-zet-chladek-ods-spolu-politika-brno.A250409_130121_domaci_svm
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/pravlk-obrovsky-klon-hra-o-truny.A250408_080316_zahranicni_ert
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/ano-karel-havlicek-rada-pro-rozhlasove-a-televizni-vysilani-rrtv-daniel-koppl-konec-spoluprace.A250409_111006_domaci_idh
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/nato/dron-bezpilotni-polygon-lom-moravske-budejovice.A250409_122005_zpr_nato_inc
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/usa-donald-trump-cla-staty-mi-lezou-do-zadku-vecere-projev.A250409_091022_zahranicni_kha
+2025-04-12 12:55:29: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/akcie-burza-cla.A250409_093213_eko-zahranicni_ven
+2025-04-12 12:55:29: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/fotbal/pohary/ac-milan-inter-milan-derby-2005-slavne-fotografie.A250326_165225_domaci_Ichuc
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/robert-kalinak-jana-cernochova-navsteva-cesko-aero.A250408_115838_ekonomika_kurl
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/ceny-ropy-rusko-financovani-valky.A250408_083349_zahranicni_aha
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/ukrajina-rusko-valka-soud-spion-agent-fsb.A250408_204941_zahranicni_dtt
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/ukrajina-rusko-valka-cina-vojaci-zajeti-volodymyr-zelenskyj.A250408_144745_zahranicni_dtt
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/usa-zakladna-polsko-letiste-stazeni-americti-vojaci.A250408_183512_zahranicni_dtt
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/demokrate-usa-nova-strategie.A250408_115931_zahranicni_ert
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/dozimetr-kauza-soud-termin-tresty-hlavni-liceni-pavel-dovhomilja-zakari-nemrah-michal-redl-petr-hlub.A250408_161058_domaci_idh
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/jan-cimicky-vezeni-odvolaci-soud-vyse-trestu.A250408_162857_domaci_dh
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/utok-hackeri-fiala-ucet-twitter-kybezpecnost.A250408_140530_domaci_mul
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/alkohol-cla-dane-usa-eu-whisky-bourbon.A250408_113723_eko-zahranicni_drh
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/marine-le-penova-pravice-francie-rozsudek.A250408_204719_zahranicni_herp
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/podnikatel-najemny-vrah-policie-vrazda-cesko-zlocin-zmizeni.A250408_183425_domaci_krd
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/titanik-replika-sken-vrak-dokument.A250408_153256_zahranicni_tmps
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/nemecko-rusko-terorismus-sturzenberger-zdf-uprchlik-afghanec.A250408_113702_zahranicni_jhr
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/trump-cla-pad-na-burze-akcie-trhy.A250408_102439_eko-zahranicni_alis
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/ceske-budejovice/zpravy/sumava-boubin-rozhledna-trasa-turiste-jezirko-nove-znaceni-uzavreni.A250408_131923_budejovice-zpravy_epet
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/brno/zpravy/zastreleny-pes-utok-soud-odvolani-psychicka-ujma-odskodneni.A250408_134345_brno-zpravy_krut
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/cina-usa-trump-cla-dopady-firmy-ekonomika-export-vyvoz.A250408_121337_eko-zahranicni_jla
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/brno/zpravy/nehoda-kamion-auto-d2-jeden-mrtvy-zavrena-dalnice.A250408_142228_brno-zpravy_krut
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/turecko-chp-ozgur-ozel-trestni-oznameni-urazka-prezidenta-erdogan.A250408_152631_zahranicni_kha
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/donald-trump-usa-amerika-bily-dum-humanitarni-pomoc-programy-usaid-agentura-pro-mezinarodni-rozvoj-w.A250409_062051_zahranicni_idh
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/policie-dum-rozbil-kamen-vandal-chodba-lezel-plival.A250409_074319_praha-zpravy_fred
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/plzen/zpravy/horni-briza-nehoda-zabrzdit-auto-rozjelo-chodnik-srazilo-kocarek-dite.A250408_152800_plzen-zpravy_vb
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/pred-50-lety-poslal-havel-dopis-husakovi-pak-prisla-charta-77.A250408_071815_domaci_vank
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/dominikanska-republika-diskoteka-zriceni-strecha-smrt.A250408_142351_zahranicni_dtt
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/brno/zpravy/ukrajinci-podvod-humanitarni-davky-zadrzeni-brno.A250408_130127_brno-zpravy_krut
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/usa-mexiko-dron-drogy-kartel-sheinbaumova.A250408_185854_zahranicni_dtt
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/usa-amerika-donald-trump-obchod-zbozi-reciprocni-cla-eu-jizni-korea-automobilky.A250409_060804_zahranicni_idh
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/ostrava/zpravy/ostrava-auto-nehoda-seniorka-kocarek-prechod-srazilo-policie.A250408_153308_ostrava-zpravy_jog
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/fridrichova-snemovna-odbor-kancler-akreditace-novinarka-politika.A250408_161854_domaci_svm
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/lukas-vlcek-americka-cla-celni-valka-donald-trump.A250408_114433_domaci_dh
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/slovensko-transakcni-dan-vlada-koalice-danko-gaspar-fico.A250408_100055_zahranicni_kha
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/brno/zpravy/osahavani-nevlastni-vnucka-soud-odvolani-podminka-zruseni.A250408_150929_brno-zpravy_krut
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/lubomir-volny-billboardy-rusko-prilezitost.A250408_140451_domaci_misl
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/donald-trump-tarif-spojene-staty-prezident-clo-ekonomika.A250408_170035_zahranicni_krd
+2025-04-12 12:55:30: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/karel-havlicek-donald-trump-neni-genialni-komise-hrozba.A250408_095722_domaci_chtl
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/liberec/zpravy/visnova-mrtvola-nalez-telo-zena-policie-pitva.A250408_143745_liberec-zpravy_jape
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/somalec-utocnik-aschaffenburg-nemecko-deportace.A250408_123449_zahranicni_misl
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/hradec-kralove/zpravy/slezske-predmesti-alessandria-vydejni-box-alza-socha-preclik.A250408_132926_hradec-zpravy_tuu
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/na-demonstraci-mela-triko-s-rokem-a-mistem-masakru-izraelcu-trestny-cin-nespachala.A250408_104320_domaci_vank
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/donald-trump-prezident-usa-cla-politika-volby-dopady-inflace.A250408_080610_eko-zahranicni_jla
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/vezeni-video-vezenska-sluzba-trestanec.A250408_091441_domaci_svm
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/olomouc/zpravy/ridic-rizeni-narazil-do-zdi-zamrel-smrtelna-dopravni-nehoda.A250408_104039_olomouc-zpravy_dmk
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/plzen/zpravy/pokus-o-vrazdu-sebevrazda-plzen-policie-kriminaliste.A250408_074651_plzen-zpravy_pp
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/trump-usa-vojenska-prehlidka.A250408_091905_zahranicni_ert
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/kultura/film-televize/nejses-moje-mama-recenze-dokument-ct.A250407_102954_filmvideo_spm
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/usa-vychodni-evropa-americti-vojaci-stazeni-pentagon-donald-trump.A250408_125254_zahranicni_dtt
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/ukrajina-cech-cesko-rusko-armada-strana-kurdskych-pracujicich.A250408_143232_domaci_tmps
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/volby/ano-socdem-jednani-volby-snemovna-karel-havlicek-jana-malacova-lubomir-zaoralek-libor-roucek.A250408_115313_domaci_idh
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/liberec/zpravy/vietnamec-soud-liberec-maceta-napadl-tehotnou-pokus-vrazda.A250408_085253_liberec-zpravy_svm
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/statni-ustav-leciv-prevenar-20-bez-zavad.A250408_142721_domaci_kurl
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/ceske-budejovice/zpravy/soud-developer-spolek-omluva-milos-kratochvil-lipno-zamitl.A250408_111353_budejovice-zpravy_pkr
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/kultura/film-televize/moloch-donutil-revai-atentat-serial-canal-thriller-prezident.A250408_090701_filmvideo_lysa
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/usti/zpravy/policie-patrani-zena-trolejbus-prihlaseni-vyslech.A250408_113135_usti-zpravy_grr
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/wiki/temata/velikonoce.K187000
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/volby/babis-uz-nepodporuje-bezvyhradne-trumpa-kritizuje-americka-cla.A250408_085627_volby_kop
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zlin/zpravy/most-napajedla-stavba-oblouk-golden-gate-bridge-doprava.A250408_095921_zlin-zpravy_jfuk
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/madarsko-slintavka-krev-zeme.A250408_132236_zahranicni_ert
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/ostrava/zpravy/br-group-novy-reditel-jan-rafaj-bochenek-lanex-heimstaden.A250408_104730_ostrava-zpravy_jog
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/volby/matej-ondrej-havel-volby-2025-top-09-spolu-skolstvi.A250407_204651_domaci_vals
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/velikonoce-termin-2025-2026-2027-2028-terminy-vypocet-oteviraci-doba-obchody.A250115_113226_domaci_rapc
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zlin/zpravy/zlatnictvi-luhacovice-kradez-kolonada-pozar-ujeli-audi.A250408_103238_zlin-zpravy_jfuk
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/sprejeri-policie-tubus-metro-rajska-zahrada-video.A250408_111115_praha-zpravy_svm
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/mediahub/cme-generalni-reditel-sam-barnett.A250408_134534_mediahub_jpl
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/petr-fiala-ceske-jednotky-kaliningrad-hakeri-utok.A250408_070041_domaci_lysa
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/pozar-modlitebna-tupadly-buddhismus-hasici.A250408_094123_praha-zpravy_svm
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/pocasi-teplota-cesko-mrazy-jaro-dubem-zima-ohrozeni-uroda-rostliny-stromy.A250408_104825_domaci_idh
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/hradec-kralove/zpravy/soud-hradec-veznice-valdice-znasilneni-sikana-vydirani-sex.A250407_191817_hradec-zpravy_pos
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/svedsko-kuchari-lesni-resort-vykaly-zvirata-guatemala.A250408_131348_zahranicni_kha
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/pardubice/zpravy/pozar-traktor-svitavy-les-drevo-vuz-unik-kapalin-hasici.A250408_095346_pardubice-zpravy_lank
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/liberec/zpravy/vandal-rasisticky-cin-pomnik-romove-policie-svedci.A250408_114547_liberec-zpravy_jape
+2025-04-12 12:55:30: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/omezeni-prodeje-alkoholu-vyssi-zdaneni.A250408_100114_domaci_ijan
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/petr-pavel-donald-trump-usa-cla.A250407_193823_domaci_herp
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/vrazdy-1-oddeleni-taxi-vrah-krimi-pervitin-praha.A221010_191812_domaci_mejt
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/usti/zpravy/lovosice-prejezd-vlaky-zavory-sprava-zeleznic-stanice.A250407_082014_usti-zpravy_grr
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/trump-republikanska-strana-midterm-volby-popularita.A250407_083532_zahranicni_aha
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/rusko-ukrajina-valka-utok-kryvyj-rih-pohreb-obeti-deti.A250407_194008_zahranicni_dtt
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/olomouc/zpravy/oklestek-hejtman-olomoucky-kraj-auto-pasy-video.A250407_193437_olomouc-zpravy_hovo
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/ukrajina-cesko-ncoz-organizovany-zlocin-razie-zbrojarstvi-technika-termovize.A250408_083656_domaci_lysa
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/brno/zpravy/azylove-bydleni-bezdomovci-drogy-protest-petice-armady-spasy.A250407_847378_brno-zpravy_mos1
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/zloutenka-typu-a-sireni-mrtvi-ockovani-selhani-jater.A250407_175116_domaci_vals
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/dozimetr-dovhomilja-nemrah-soud-dohoda-spoluprace-policie.A250407_183425_domaci_vals
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/donald-trump-cla-cina-peking.A250407_173412_eko-zahranicni_kurl
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/usa-apple-telefon-apple-store-zakaznici-fronty-cla-trump-strach-iphone.A250408_084257_eko-zahranicni_jadv
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/trump-musk-cla-usa-dovoz-tesla-obchod-cina.A250408_060835_zahranicni_lysa
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/nymburk-ceske-drahy-vlak-najel-provoz-kameni-kolejiste.A250407_180505_praha-zpravy_kurl
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/ukrajina-rusko-valka-kurska-belgorodska-oblast-volodmyr-zelenskyj-prezident.A250407_205412_zahranicni_dtt
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/cla-akcie-asijske-trhy-porapd.A250407_090849_eko-zahranicni_alis
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/volby/praha-pirati-volby-kandidatka-listina-hrib-richterova.A250407_211028_volby_kurl
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/konak-cla-trump-usa-francie-alkohol-vyvoz-import.A250407_095024_eko-zahranicni_elsy
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/mediahub/nra-fridrichova-odepreni-akreditace-poslanecka-smenovna.A250407_165322_domaci_lysa
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/goring-vila-sylt-nemecko-prodej.A250408_081352_zahranicni_bur
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/pardubice/zpravy/rodinny-dum-hasici-exploze-komin-zavada-tesneni-zampach.A250407_151132_pardubice-zpravy_lank
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/brezen-nejteplejsi-v-evrope-globalni-oteplovani.A250408_060816_zahranicni_ijan
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/kultura/film-televize/mission-impossible-posledni-zuctovani-tom-cruise-trailer.A250407_172346_filmvideo_herp
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/liberec/zpravy/lanovka-na-jested-nova-podoba-ufo-anna-maresova-video.A250407_164840_liberec-zpravy_cink
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/rusko-usa-trump-bombardovani-ukrajina.A250408_100946_zahranicni_jhr
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/ipsos-cez-prodej.A250408_070320_ekonomika_hyk
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/trump-obraz-usa-colorado.A250407_131523_zahranicni_jhr
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/karlovy-vary/zpravy/tragicka-nehoda-u-horniho-slavkova-tri-mrtvi-policie.A250408_080051_vary-zpravy_pp
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/vysocany-nehoda-matka-dite-ridic-nemoc-porsche-smrt.A250408_100155_praha-zpravy_svm
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/kultura/film-televize/ceny-andel-komentar-spacilova-misik-mladek.A250407_100507_filmvideo_spm
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/usa-izrael-trump-netanjahu-iran-jednani-jaderny-program.A250407_223120_zahranicni_tbr
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/nato/gripen-obrana-stihac-f-35-obrana-armada-svedsko.A250408_074702_zpr_nato_inc
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/usa-iran-konflikt-jaderny-program-trump-zbrane-sankce.A250407_195934_zahranicni_vals
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/boris-johnson-pstros-napadeni-politik-vylet-safari.A250407_163508_zahranicni_kurl
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/venezuela-nejvyssi-soud-usa-trump-deportace.A250408_064323_zahranicni_ijan
+2025-04-12 12:55:30: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/e-cigarety-soucastky-hrozba-deti-intoxikace-lekari-varovani-motol.A250407_125039_praha-zpravy_lupr
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/usti/zpravy/trolejbus-zena-silnice-nehoda-policie-patrani-deti.A250407_140037_usti-zpravy_grr
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/soutez-megahra-auto-hyundai-vyhra-penezni-premie.A250407_093026_ekonomika_dyn
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zlin/zpravy/dum-pozar-vysoke-pole-zena-dite-soused-vyvedl.A250407_140902_zlin-zpravy_jfuk
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/usa-trump-cla-spotrebitele-zbozi-maloobchod-dovoz.A250407_094124_eko-zahranicni_jadv
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/brno/zpravy/dalnice-d1-rozsireni-sest-pruhu-hotovo-video.A250407_091856_brno-zpravy_mos1
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/kultura/film-televize/jay-north-dennis-mitchell-the-menace-postrach-okoli.A250407_101015_filmvideo_idh
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/volby/libor-roucek-socdem-odchod-strana-socialni-demokrate.A250407_150128_domaci_kurl
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/ikem-gibs-policie-vysetrovani-soud.A250407_125210_domaci_hovo
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/navrh-vlady-na-zruseni-srazkove-dane-dopadl-by-negativne-na-dohodare-ano-to-bude.A250407_095015_domaci_kop
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/praha-bubny-nadrazi-vystavba-holesovice-vlak-doprava-zeleznice.A250407_102147_praha-zpravy_ikro
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/slintavka-kulhavka-vzorky-testy-statni-veterinarni-sprava-svs-veterinari.A250407_120840_domaci_idh
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zlin/zpravy/popelka-aktivista-soud-uherske-hradiste-vyhybani-se-vezeni.A250407_082637_zlin-zpravy_jfuk
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/usa-texas-spalnicky-druha-obet-dite-daisy-hildebrand-kennedy-vakciny.A250407_094332_zahranicni_kha
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/americke-akcie-propad-trump-cla-s-p-500.A250407_160136_eko-zahranicni_alis
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/trump-cla-jako-nutna-lecba-pokles-trhu-neznepokojuje.A250407_062821_zahranicni_lupr
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/brno/zpravy/svalnaty-muz-zatykac-ukryt-satni-skrin-policie.A250407_112551_brno-zpravy_mos1
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/filip-dvorak-praha-1-hospodarska-komora-politika-v-praze.A250402_123240_domaci_rts
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/novy-termin-vyplaty-duchodu-penze-cssz.A250401_062615_ekonomika_tbr
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/motol-budinsky-kovar-kostarika.A250407_094812_domaci_tty
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/kultura/hudba/anna-julie-slovackova-lipo-jonas-cervinka.A250407_130129_hudba_jgo
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/nemecko-aldi-nord-lidl-retezec-velikonoce-prodej-zajic-zajicek-cokolada-spotrebitele.A250407_132409_eko-zahranicni_jadv
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/olomouc/zpravy/veterina-byk-skot-uzda-sedlo-prerovsko.A250407_103935_olomouc-zpravy_dmk
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/usti/zpravy/zoo-karakal-vysetreni-endoskop-zahleneni-pece-selma.A250407_093350_usti-zpravy_grr
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/brno/zpravy/spoluprace-dohoda-podminka-cernovicka-piskovna.A250407_144857_brno-zpravy_mos1
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/ceske-budejovice/zpravy/senior-ridic-stret-auto-cyklistka-vazne-zraneni-vrtulnik-dvory.A250407_151234_budejovice-zpravy_khr
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/ministri-obchodu-eu-lukas-vlcek-americka-cla.A250406_134925_domaci_dh
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/maraton-kldr-pandemie-covid.A250407_110529_zahranicni_bur
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/ceske-budejovice/zpravy/zena-muz-utok-nozem-hadka-vazba-obvineni-krausova-napadeni.A250407_131322_budejovice-zpravy_khr
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/plzen/zpravy/bratr-exmanzelka-vrazda-hrebikovacka-soud-podnikatel-starosta.A250407_125900_plzen-zpravy_idh
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/nemecko-zlato-rezervy-usa-fed.A250407_120241_zahranicni_ert
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/liberec/zpravy/vlk-srazka-auto-silnice-ekodukt-dopravni-nehoda.A250407_104846_liberec-zpravy_cink
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/usa-mauricius-britanie-cagoske-ostrovy-iran-bombardovani-hrozba-vyhruzka.A250407_133116_zahranicni_dtt
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/karlovy-vary/zpravy/policie-utok-zharstvi-molotovuv-koktejl-odrava-pozar.A250407_102835_vary-zpravy_pkz
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/ceske-budejovice/zpravy/spolek-salamoun-van-fabian-priprava-vrazda-lidska-prava-proces-soud.A250407_111116_budejovice-zpravy_khr
+2025-04-12 12:55:30: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/donald-trump-usa-cla-prezident-kryptomeny-cena-bitcoin.A250407_113745_eko-zahranicni_jla
+2025-04-12 12:55:30: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/donald-trump-usa-amerika-utok-husiove-jemen-video-vybuch.A250405_093149_zahranicni_idh
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/hradec-kralove/zpravy/hasici-kralovehradecky-hacker-kyberneticky-utok-ransomware.A250407_847329_hradec-zpravy_tuu
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/prijimacky-na-stredni-skoly-zkousky-nanecisto-gymnazium-na-zatlance.A250407_847288_domaci_tty
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/praha-nehoda-autonehoda-auto-motoka-smrt.A250406_132200_praha-zpravy_Ichuc
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/slintavka-slovensko-farmari.A250406_203714_zahranicni_fred
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/ukrajina-kyjev-valka-rusko-moskva-volodymyr-zelenskyj-vyjadreni-utoky-rakety-obeti.A250406_141609_zahranicni_idh
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/ozempic-saxenda-lek-obezita-nadvaha-vedlejsi-ucinky-nevolnost-dieta.A250403_172215_domaci_krd
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/kultura/hudba/monkey-business-andel-roman-holy-cappella-mariana-constantinople-andel.A250406_104204_hudba_jgo
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/benzen-pitna-voda-ovzdusi-hustopece-hladik.A250406_141146_domaci_vank
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/pocasi-arkticky-vzduch-zeslabl-v-noci-ale-stale-mrzne.A250407_055711_domaci_lupr
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/brno/zpravy/zakladni-skola-hustopece-spory-reditel-vypoved-ucitele.A250403_155029_brno-zpravy_mos1
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/rusko-britanie-hypersonicka-zbran-usa.A250407_102856_zahranicni_jhr
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/mrtvi-policie-nemecko-vrazda.A250406_152900_zahranicni_fred
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/kultura/hudba/zemrela-anicka-slovackova-prohrala-dlouhy-boj-s-rakovinou.A250406_213145_hudba_maka
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/kurata-drubez-maso-ukrajina-dovoz-zuzana-slamova.A250406_180849_domaci_stud
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/vaclav-moravec-karel-havlicek-filip-turek-cla-usa.A250406_120017_domaci_dyn
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/kultura/film-televize/saturday-night-live-glosa-film-apple-tv-televize-zabava.A250401_122248_filmvideo_kiz
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/prijimaci-zkousky-stredni-skoly-2025-termin-vysledky.A250115_135154_domaci_dyn
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/olomouc/zpravy/pozar-horici-auto-mercedes-hasici-za-jizdy-prosenice.A250407_085304_olomouc-zpravy_dmk
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/modry-jazyk-kataralni-horecka-ovci-slintavka-a-kulhavka.A250406_190355_ekonomika_remy
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/bradacova-kyberzlocinci-hackeri.A250406_161450_domaci_fred
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/prazsky-hrad-pav-kralovska-zahrada.A250401_115916_domaci_row
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/schillerova-skopecek-tv-nova-debata-trump-ekomonika-cla-valak-ukrajina-rusko.A250406_115150_domaci_Ichuc
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/praha-7-pobodani-utocnik-policie-zraneni-letna-zachranka-potycka.A250406_145124_praha-zpravy_Ichuc
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/kalifornie-lachtani-otrava-napadeni-agrese.A250407_094801_zahranicni_ert
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/mraz-pocasi-jaro-ovocne-stromy.A250406_182833_domaci_fred
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/kolumbijska-univerzita-kampus-hlidka-new-york.A250406_191534_zahranicni_fred
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/ceske-budejovice/zpravy/cyklista-zemrel-naraz-dum-policie-zraneni-svedci-mladejovice.A250407_082435_budejovice-zpravy_khr
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/krysa-ronin-v-kambozdi-vycmuchala-vice-nez-sto-min.A250407_064936_zahranicni_lupr
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/deti-bez-litosti-nasili-liberec-psychiatrie-divky-vrazda-kriminalita.A250406_194345_domaci_stud
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/valka-na-ukrajine-rusko-isw-postup-boje-zelenskyj-putin.A250407_082030_zahranicni_ikro
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/tenis-mensik-vyhra-djokovic-litva-nezvestni-vojaci-vozidlo-trump-zlata-karta-pet-milionu-dolaru-auto.A250406_113200_domaci_pech
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/trum-cla-obchodni-valka-asie.A250406_155959_zahranicni_fred
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/le-pen-francie-marine-luther-king-narodni-sdruzeni.A250406_144902_zahranicni_fred
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/volby-kampan-penize-kandidati-strany.A250406_190616_domaci_stud
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/banglades-vlada-vakuum-moc-radikalni-islamiste.A250402_130127_zahranicni_kha
+2025-04-12 12:55:31: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/volby/volebni-model-pruzkum-strany-a-hnuti.A250406_101725_domaci_vank
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/letiste-parkovani-ceny-cr-praha.A250403_095639_ekonomika_rie
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/usa-amerika-donald-trump-elon-musk-administrativa-protesty-demonstrace-new-york-manhattan-massachuse.A250406_091650_zahranicni_idh
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/usa-trump-musk-akcie-cla-vejce-zamestnanci-statni-sektor.A250401_183621_zahranicni_vals
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/radovan-krejcir-jar-cesko-soud-zlocin-zatykac-drogy-vezeni.A250406_105032_zahranicni_Ichuc
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/davky-na-bydleni-seniori-rodice-s-detmi-penize-najem.A250402_084555_domaci_ikro
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/ostrava/zpravy/nehoda-moravskoslezsky-kraj-dite-zraneni-autonehoda.A250406_102043_ostrava-zpravy_Ichuc
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/papez-frantisek-nemocnice-propusteni-prvni-vystoupeni-svatoppetrske-namesti-vatikan.A250406_121554_zahranicni_idh
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/pocasi-meteorologove-mrazova-noc-teploty.A250406_073859_domaci_vank
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/kladno-d6-nehoda-uzavirka-kolize-stredocesky-kraj.A250406_113701_praha-zpravy_Ichuc
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/nemecko-volby-afd-alternativa-konzervativni-unie-cdu-csu-friedrich-merz-alice-weidel.A250405_150319_zahranicni_idh
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/plzen/zpravy/zeleznicni-trat-zavada-plzen-klatovy.A250405_155305_plzen-zpravy_pari
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/divadelni-hra-rusko-moskva-kaluga-elon-musk-usa-amerika-konstantin-eduardovic-ciolkovskij.A250405_133352_zahranicni_idh
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/spanelsko-alcala-de-henares-policie-drogy-obchod-penize-ekvador-algeciras-kokain.A250405_142435_zahranicni_idh
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/obezita-leky-hubnuti-ozempic-cukrovka.A250402_180633_domaci_ceve
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/kanada-usa-amerika-hranice-varovani-kontroly-telefony.A250405_155100_zahranicni_idh
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/pasmo-gazy-izrael-palestina-zdravotnici-cerveny-pulmesic-osn-unrwa-mvck.A250405_135713_zahranicni_idh
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/usa-zrusi-vsechna-viza-pro-jihosudance-juba-neprijima-vypovezene-uvedl-rubio.A250406_065341_zahranicni_vank
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/ostrava/zpravy/motorkar-pater-zraneni-nehoda-osobni-auto-zachranari.A250405_181304_ostrava-zpravy_svm
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/swap-vymena-obleceni-obchod-poubova-holubova.A250401_064806_domaci_pitt
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/volby/vychodiska-a-vule-ke-zmene-rezimu-konference-poloprezidentsky-system-koudelka.A250405_144337_volby_kop
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/volby/prvovolici-volby-kampan-strany-ano-andrej-babis-motoriste-sobe.A250402_080130_volby_ikro
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/ukrajina-valka-zelenskyj-rusko-velvyslankyne-usa-trump-deti-smrt.A250405_162326_zahranicni_svm
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/japonsko-megazemetreseni.A250402_131214_zahranicni_ert
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/volby/praha-kandidatka-starostove-karel-dvorak.A250405_124147_praha-volby_pari
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/wiki/temata/ceny-andel-nominace-vysledky-komentare-video.K533043
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/sapa-trip-vietnamci-podnikani-nguyen-manh-tung.A250402_124519_ekonomika_pitt
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/usa-univerzity-evropa-kanada-snyder-veda-akademici-trump.A250401_124401_zahranicni_jhr
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/rusko-zautocilo-na-kyjev-na-nekolika-mistech-vypukly-pozary-uvedl-starosta.A250406_070743_zahranicni_vank
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/dlouhodobe-osetrovne-melo-loni-19-500-lidi-pocet-kazdy-rok-roste-uvedla-sprava.A250406_072841_domaci_vank
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/holokaust-druha-svetova-valka-osvobozeni-americka-armada-nacismus-nemecko-vlak-koncentracni-tabor.A250403_154303_zahranicni_dtt
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/debata-ministr-zemedelstvi-marek-vyborny-predseda-poslaneckeho-klubu-spd-radim-fiala.A250406_101302_domaci_vank
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/jizni-korea-prezident-jun-sok-jol-soud-vezeni.A250404_163346_zahranicni_stud
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/pocasi-chmu-merunky-ovoce-stromy-kvet-mraz.A250405_195628_domaci_svm
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/pulmaraton-golem-zachranari-nemocnice-transport-bezci-amateri.A250405_154326_praha-zpravy_svm
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/olomouc/zpravy/hustopece-nad-becvou-benzen-tezba-zeminy-ohrozeni.A250405_141835_olomouc-zpravy_pari
+2025-04-12 12:55:31: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/v-mexiku-onemocnela-ptaci-chripkou-trileta-holcicka-je-ve-vaznem-stavu.A250405_070929_zahranicni_vank
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/cina-jmeno-pojmenovani-kultura-turista.A250404_171529_zahranicni_stud
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/olomouc/zpravy/olomouc-ohrozeni-chodci-paryba-ozdoba.A250404_175739_olomouc-zpravy_berr
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/renata-vesecka-volby-kandidatura-motoriste-justice.A250404_181230_domaci_stud
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/clo-italie-usa-dovoz-produkty-obchod-lutnick.A250404_212738_eko-zahranicni_lysa
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/konfederace-sahleskych-statu-mali-niger-burkina-faso-rusko.A250404_113829_zahranicni_aha
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/cla-trump-usa-burzy-praha-evropa-prognoza.A250404_180928_eko-zahranicni_hovo
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/cla-usa-fed-centralni-banka-trump-inflace.A250404_190247_eko-zahranicni_hovo
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/rusko-valka-na-ukrajine-putin-zacharovova-kyjev-moskva-mir-trump.A250404_191857_zahranicni_berr
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/plzen/zpravy/sekta-plasy-lukas-s-obvineni-vazba-domaci-porod-plzensko.A250405_102338_plzen-zpravy_vb
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/reforma-davek-pocita-se-zmrazenim-zivotniho-minima-uprchliku-z-ukrajiny.A250405_101244_domaci_vank
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/kalousek-hampl-pilny-celni-valka-reciprocni-cla-trump-evropska-unie.A250404_145831_domaci_ikul
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/univerzita-karlova-platy-pracovnici-odmeny.A250404_202327_domaci_stud
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/kilmar-abrego-garcia-deportace-migrace-pristehovalec-chyba-donald-trump-usa-amerika-salvador-vezen.A250405_084053_zahranicni_idh
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/woolworh-expanze-vstup-do-ceska-cerven.A250402_133846_ekonomika_vebe
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/slovensko-kravy-slintavka-kulhavka-opatreni.A250404_203935_zahranicni_lysa
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/ceske-budejovice/zpravy/zena-dalnice-d3-policie-tabor.A250404_180041_budejovice-zpravy_lysa
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/vystava-neklidna-duse-ciharu-sijota-kunsthalle.A250405_091047_praha-zpravy_pari
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/trump-rozpoutal-bouri-a-jel-na-golf-a-magnati-radsi-zdrazi-nez-by-premistili-firmy.A250405_091119_eko-zahranicni_vank
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/rusko-emigrace-normalizace-mirova-jednani-ukrajina-zahranicni-agent.A250401_153642_zahranicni_dtt
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/usa-cina-sex-romance-donald-trump-komunismus-geopolitika.A250403_180420_zahranicni_berr
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/drahokam-nove-slunce-nalez-alrosa-rusko-ebelyach-jakutsko.A250405_113832_zahranicni_idh
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/rusky-utok-na-kryvyj-rih-si-vyzadal-nejmene-18-zivotu-vcetne-deviti-deti.A250405_072354_zahranicni_vank
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/mediahub/otevreny-dopis-vydavatele-eu.A250319_130933_mediahub_jpl
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/nehoda-auto-trebenice-policie-zachranka-zraneni.A250405_114435_praha-zpravy_pari
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/pamatky-sezona-janovice-u-rymarova-neustupov.A250405_085202_domaci_vank
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/prijimacky-na-stredni-skoly-test-matematika-ulohy.A250404_170253_domaci_poch
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/po-zemetreseni-v-barme-jsou-zachranari-z-usa-napadni-svou-nepritomnosti.A250405_133850_zahranicni_vank
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/transgender-florida-usa-toalety.A250404_190343_zahranicni_jhr
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/usa-zacinaji-vybirat-desetiprocentni-clo-na-dovoz-ze-vsech-zemi-sveta.A250405_065829_eko-zahranicni_vank
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/dominik-rusinko-cla-obchodni-valka.A250404_134959_eko-zahranicni_alis
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/kokain-drogy-lod-paseraci-filipinci-francie-pobrezi-gang.A250404_190637_zahranicni_lysa
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/pozar-praha-hasici-troja.A250405_104051_praha-zpravy_pari
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/rusko-valka-ukrajina-nabor-vojaci-muceni-mentalni-hendikep-postizeni.A250404_113559_zahranicni_dtt
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/zelenskyj-ukrajina-rusko-moskva-dohoda-britanie-francie-primeri.A250404_194103_zahranicni_lysa
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/v-useku-cerny-most-a-florenc-nejezdi-metro-policie-proveruje-pohyb-lidi-v-tunelu.A250405_074215_praha-zpravy_vank
+2025-04-12 12:55:31: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/ostrava/zpravy/pozar-hlucin-rodinny-dum-umrti-policie-hasici.A250404_133849_ostrava-zpravy_jog
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/olomouc/zpravy/benzen-nehoda-kontaminace-puda-vzorky-zenmina-ustredni-kontrolni-a-zkusebni-ustav-zemedelsky.A250404_110457_olomouc-zpravy_dmk
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/brno/zpravy/slintavka-kulhavka-opatreni-hranicni-prechod-breclav-brodske.A250404_113205_brno-zpravy_coch
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/prezident-petr-pavel-schuze-snemovny-armada-opozice.A250404_111547_domaci_lupr
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/musk-trump-konec-financovani-republikani.A250404_100355_zahranicni_ert
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/kultura/hudba/elton-john-brandi-carlile-who-believes-in-angels-recenze.A250404_094007_hudba_jgo
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/trump-zlata-karta-imigracni-program-usa.A250404_130711_zahranicni_jhr
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/radek-vondracek-zakaz-zverejnovani-totoznosti-podezrelych-stihanych-politici-verejne-zname-osoby.A250404_140523_domaci_idh
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/ukrajina-ruska-kolona-u-kurachove.A250404_101056_zahranicni_aha
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/zdravi-longevity-vitaminy-strava.A250404_094551_domaci_rts
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/fico-bratislava-vyroci-osvbozeni-valka-velvyslanci.A250404_181903_zahranicni_remy
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/jihlava/zpravy/pozar-kamion-policie-hasici-havlickuv-brod-u-cihlare.A250404_090321_jihlava-zpravy_evs
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/barma-zemetreseni-astrologie-i-min-aung-hlaing-junta.A250403_155441_zahranicni_jhr
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/usa-marco-rubio-rusko-vladimir-putin-ukrajina-valka.A250404_133105_zahranicni_kha
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/utok-napadeni-policie-ridic-motorista-palka-patrani.A250404_115157_praha-zpravy_idh
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/urady-zmrazily-majetek-belorusa-sakncni-seznam-novinarka.A250404_134119_domaci_lupr
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zlin/zpravy/stipa-zlin-pozar-auto-ohen-hasici.A250404_120710_zlin-zpravy_epfoj
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/brno/zpravy/opily-ridic-nehoda-hodoninsko-dechova-zkouska-pet-promile-alkohol.A250404_092817_brno-zpravy_coch
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/praha-holesovice-runczech-beh-pulmaraton-bubenske-nabrezi-zavod.A250404_102717_praha-zpravy_idh
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/hradec-kralove/zpravy/protitankovy-prikop-nachod-obchvat-babi-stavba-archeolog-nalez.A250404_112746_hradec-zpravy_tuu
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/plzen/zpravy/janovice-nehoda-dodavka-zraneni-hasici-vyletel-motor.A250404_150747_plzen-zpravy_vb
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/ekonomika-dovoz-import-cina-usa-amerika-cla-odveta.A250404_132216_eko-zahranicni_idh
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/domov-alzheimer-roztoky-soud-pozar-chott-rohlicek.A250404_131455_praha-zpravy_svm
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/pirati-pokuta-volby-dohledovy-urad.A250403_125908_domaci_vank
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/vezeni-nemecko-burg-vrazda-manzelky.A250404_123144_zahranicni_ijan
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/pozar-hasici-praha-strasnice-smrt.A250404_144046_praha-zpravy_epkbn
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/masarykovo-nadrazi-modernizace-miliardy-sprava-zeleznic-pamatky-archeolog.A250404_152453_praha-zpravy_svm
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/brno/zpravy/dalnice-d1-brno-rozsireni-oprava-obnoveni-provozu-sest-pruhu.A250404_155109_brno-zpravy_coch
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/nss-ukrajina-migrace-pobytove-opravneni-premisteni-vnitro.A250404_171753_domaci_hovo
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/nehoda-kloubovy-autobus-svehlova-hasici-doprava.A250404_123158_praha-zpravy_slv
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/brno/zpravy/simona-monyova-nataceni-serial-tereza-ramba-brno.A250404_164640_brno-zpravy_coch
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/plzen/zpravy/vezen-bory-zbil-chrapani-zmlatil-oko-zraneni-trest.A250404_124125_plzen-zpravy_vb
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/smucler-zubar-zaloba-ostrava.A250404_135202_domaci_iles
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/brno/zpravy/kamion-nehoda-dalnice-drogy-soud-ustavni-lecba.A250404_120947_brno-zpravy_coch
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/hradec-kralove/zpravy/kopidlno-dolni-bousov-autonomni-vlak-zahajeni-zeleznice-etcs.A250404_115637_hradec-zpravy_tuu
+2025-04-12 12:55:31: ✅ Článek již navštíven: https://www.idnes.cz/zlin/zpravy/stary-hrozenkov-hranice-prechod-slintavka-kulhavka-dezinfekce-kamiony.A250404_142211_zlin-zpravy_epfoj
+2025-04-12 12:55:31: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/trump-marine-le-penova-francie-odsouzeni-vyzva-k-osvobozeni.A250404_102356_zahranicni_ikul
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/jihlava/zpravy/dravci-ptaci-otrava-jed-karbofuran-policie-jihlavsko-brtnice-lunak-orel.A250403_164647_jihlava-zpravy_mikp
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/prijimacky-na-stredni-skoly-testy-matematika-ulohy-mikado.A250403_153537_domaci_poch
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/rusko-ukrajina-valka-ztraty-raneni-mrtvi-nato.A250404_085201_zahranicni_dtt
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/jizni-korea-ustavni-soud-odvolani-z-funkce-prezidenta.A250404_055852_zahranicni_lupr
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/usa-trump-cla-mmf-reakce-svetove-hospodarstvi.A250404_055857_eko-zahranicni_tbr
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/wiki/temata/kdy-se-oteviraji-hrady-zamky-2025-otevreny-celorocne-sezona.A250401_090524_temata_vanky
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/nemecko-pravicove-sasti-separatiste-strelba-nacvik-cesko-polsko.A250404_090129_zahranicni_ikul
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/kultura/divadlo/kral-lear-divadlo-v-celetne-kaspar-recenze.A250404_003309_divadlo_ts
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/hradec-kralove/zpravy/hradec-kralove-mhd-koalice-odbavovaci-system-dopravni-podnik.A250404_846645_hradec-zpravy_tuu
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/trump-soud-usa-prohra-soukromi-sex-rusko-valka-putin.A250403_210209_zahranicni_berr
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/policista-zasah-brno-resuscitace-novorozenec-miminko-chlapec.A250403_154102_domaci_ikro
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/kultura/hudba/ed-sheeran-azizam-nova-pisen.A250404_091236_hudba_jgo
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/investice-obrana-jana-cernochova-cvut-memorandum.A250402_114822_domaci_mul
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/dubaj-onlyfans-modelky-portapotty-party.A250403_115405_zahranicni_rtn
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/heureka-group-shop-roku-e-commerce-2024.A250403_143937_ekonomika_vebe
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/trump-svobodna-evropa-vypnuti-satelitu-s-vysilanim-do-ruska.A250404_091359_zahranicni_lupr
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/alternativa-pro-nemecko-afd-krestanskodemokraticka-unie-cdu.A250403_175620_zahranicni_jhr
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/doprava-tramvaj-dpp-mhd-prevoz-model-skoda-group-for-cityplus-52t-praha.A250404_090954_praha-zpravy_idh
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/volby/brno/snemovni-volby-2025-kandidatky-lidri-jihomoravsky-kraj-fiala-schillerova.A250403_846837_brno-zpravy_mos1
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/ano-babis-debata-volby-ostravsko.A250404_072815_domaci_lupr
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/kultura/film-televize/tom-cruise-val-kilmer-pocta-top-gun-iceman-maverick-smrt-herec-hollywood.A250404_074449_filmvideo_idh
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/cerpaci-stanice-srovnani-benzin-nafta-zachody-jidlo.A250403_192108_domaci_rtn
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/trump-cla-vyjednavani-zeme-nabidka.A250404_063223_zahranicni_lupr
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/eu-musk-sit-x-pokuta.A250404_061317_zahranicni_tbr
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/daniel-kristof-rekvalifikace-trh-prace-nezamestnanost-plat.A250321_123039_ona-vztahy_vals
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/ostrava/zpravy/vlak-vykolejeni-nadrazi-regiojet-hasici.A250402_074045_ostrava-zpravy_ba
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/pardubice/zpravy/vrazda-jevicko-soud-opilstvi-namesti-napadeni-bodani.A250404_085028_pardubice-zpravy_mvo
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/indie-domorodci-kmen-ostrovy-sentinelci-severni-sentinel-american-turista.A250403_205605_zahranicni_mikp
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/donald-trump-cla-vietnam-americke-spolecnosti.A250403_112032_eko-zahranicni_misl
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/kultura/hudba/tereza-kerndlova-rozhovor-podcast-hudba-album-nove-diamanty-black-milk-zetova.A250402_134842_hudba_kiz
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/evropa-zbrane-autonomie-nakup-usa-cla-valka-rusko-obrana.A250403_174611_zahranicni_krd
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/petrohrad-rusko-potrestal-kneze-pokuta-diskreditace-armady.A250404_070557_zahranicni_lupr
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/putinuv-zmocnenec-jednal-s-usa-pochvaluje-si-pozitivni-dynamiku-vztahu.A250404_060102_zahranicni_aoc
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/donald-trump-aktivistka-loomerova-bily-dum-bezpecnostni-rada.A250403_185141_zahranicni_mikp
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/doprava/volkswagen-vw-auta-cla-trump-vyvoz-priplatek-poplatek-dovoz.A250404_101224_eko-doprava_jadv
+2025-04-12 12:55:32: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/usa-donald-trump-elon-musk-jd-vance-doge.A250403_160054_zahranicni_kha
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/tiktok-bytedance-pokuta-eu-udaje-o-uzivatelich.A250403_153619_eko-zahranicni_ijan
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/prehazene-organy-sbirka-viktorka-lekari-nemocnice-syndrom-kaudalni-regrese.A250403_075301_domaci_ikro
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/firmy-cla-usa-donald-trump-dopady-investice-inflace.A250403_135231_eko-zahranicni_jla
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/kellnerova-nakup-hotel-four-season-miliardovy-obchod.A250403_092446_ekonomika_vebe
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/usa-pronataliste-hnuti-trump-musk.A250402_123806_zahranicni_ert
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/plzen/zpravy/soud-zpronevera-ucetni-srni-rozsudek-podminka.A250403_154808_plzen-zpravy_pkz
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/zahranicni-glosar-trump-cla-orban-le-pen-australie-kanada-booker.A250403_100446_zahranicni_bro
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/ostrava/zpravy/krajsky-soud-otravena-svickova-karvina-pokus-o-vrazdu.A250403_122235_ostrava-zpravy_jog
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/ostrava/zpravy/policie-sanitka-doprovod-nemocnice-zachvat-dite-otec.A250403_104700_ostrava-zpravy_dmk
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/mediahub/svengali-communications-sabre-awards-prazdroj.A250403_135221_mediahub_jpl
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/cla-dovoz-vyvoz-usa-evropska-unie-donald-trump-penize.A250403_095350_domaci_ikro
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/domaci-nasili-pomoc-pod-svicnem-kampan-osveta.A250403_144807_domaci_pari
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/usa-cla-donald-trump-mladi-japonsko.A250403_094444_zahranicni_kha
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/jaromir-soukup-medea-insolvence-knowlimits-soud.A250402_152759_domaci_iri
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/plzen/zpravy/soud-sexualni-zneuzivani-deti-plzen-tabor-vedouci.A250403_121151_plzen-zpravy_pkz
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/zbrojovka-clo-usa-tariffs-trump-cla-zdrazeni-reciprocita.A250403_191041_ekonomika_berr
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/margita-balasitkova-kulhavka-slintavka-kritika.A250403_131729_domaci_aoc
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/usa-blizky-vychod-letectvo-rusko-globalni-katastrofa.A250403_170935_zahranicni_rtn
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/rubio-usa-nato.A250403_120931_zahranicni_bro
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/liberec/zpravy/nehoda-bmw-ridic-vrtulnik-mimon-zraneni-narozeniny.A250403_144538_liberec-zpravy_jape
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/wiki/obecne/prazske-jaro-2021.K5070587
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/volby/starostove-vit-rakusan-volby.A250403_125110_domaci_row
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/praha-nehoda-prevracene-auto.A250403_115426_praha-zpravy_pari
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/petr-fiala-premier-bezpecna-budoucnost-konference.A250403_095235_domaci_dh
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/plzen/zpravy/policie-stihani-sekta-ohnivy-drak-plasy-lukas-buh-sasek.A250403_114113_plzen-zpravy_pkz
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/rusko-pokrovsk-moskvic-ziguli.A250403_101530_zahranicni_aha
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/ministr-zemedelstvi-marek-vyborny-odebrani-ridicskeho-prukazu.A250403_114312_domaci_misl
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/policie-zachranka-otrava-oxid-uhelnaty-dolni-brezany.A250403_105234_praha-zpravy_ba
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/skleneny-kostlivec-kostra-obchodni-dum-maj-praha.A250403_124610_praha-zpravy_ikro
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/brno/zpravy/granat-kontejner-sberna-policie-munice.A250403_142858_brno-zpravy_mos1
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/liberec/zpravy/turnov-sakury-ruzova-ulice-obavy-mraz-fotky.A250403_161718_liberec-zpravy_jape/foto
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/vlak-prejezd-divka-cyklista-nezodpovedne-chovani-ohrozeni-policie.A250403_131721_praha-zpravy_pari
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/trump-cla-hrebik-do-rakve-globalizace-rozstrel-mojmir-hampl.A250403_141845_eko-zahranicni_vov
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/madarsko-viktor-orban-benjamin-netanjahu-izrael-navsteva-mezinarodni-trestni-soud-icc.A250403_085020_zahranicni_dtt
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/cesko-kvuli-slintavce-od-pulnoci-vyrazne-omezi-nakladni-dopravu-ze-slovenska.A250403_161655_domaci_hejj
+2025-04-12 12:55:32: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/potraviny-vejce-velikonoce.A250402_172827_ekonomika_drh
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/rozstrel-martin-sedlak-baterie-solary-cina-cesko-evropa.A250402_104854_ekonomika_vov
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/pardubice/zpravy/vrazda-jevicko-utok-namesti-soud-opilstvi.A250402_231934_pardubice-zpravy_lati
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/ceske-budejovice/zpravy/lyzar-senior-stret-sjezdovka-lipno-zraneni-vrtulnik-horska-sluzba.A250403_102707_budejovice-zpravy_khr
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/evropska-unie-von-der-leyen-reakce-na-cla-uvalena-donaldem-trumpem-korea-cina-japonsko.A250403_044522_zahranicni_kop
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/prijimacky-na-stredni-skoly-testy-matematika-geometrie.A250402_173141_domaci_poch
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/volby/volby-do-snemovny-hnuti-spd-a-stacilo-podpora-mensich-stran-odbornici-koalice.A250402_093358_domaci_vank
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/jana-sebkova-policie-pavel-sevcovic-kauza-motol-rath.A250402_172514_domaci_ceve
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/evropska-unie-cla-europoslanci-danuse-nerudova-usa-trump-turek-auta-eokonomika-epp-zeleni-gregorova.A250402_165151_zahranicni_Ichuc
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/trump-reciprocni-cla-svet-den-svobody.A250402_220817_eko-zahranicni_remy
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/cla-ekonomika-inflace.A250403_084649_eko-zahranicni_ven
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/plzen/zpravy/soud-odvolaci-rozsudek-trest-vrazda-zabiti-utok-nuzkami-bezdomovci.A250403_092212_plzen-zpravy_pkz
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/komentar-andrej-babis-obrana-koryta-petr-fiala.A250403_061115_domaci_tof
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/nemecko-kriminalita-migrace-deportace-nancy-faeserova.A250402_194300_zahranicni_ceve
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/usa-bohatstvi-politika-trump-musk-aft-reformy.A250402_165557_zahranicni_svm
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/izrael-netanjahu-rada-osn-cesko.A250402_190537_zahranicni_tmps
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/argentina-rusko-zatceni-kult-sekta.A250402_125027_zahranicni_dtt
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/trump-dmitrijev-witkoff-jednani-valka-na-ukrajine.A250403_063059_zahranicni_fred
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/dublin-socha-poprsi.A250403_093953_zahranicni_fred
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/falesny-banker-podvod-penize-podezrely-policie-milion.A250403_094328_praha-zpravy_ikro
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/ceske-budejovice/zpravy/park-dukelska-leninovy-sady-primatorka-promena-uprava-nazev.A250403_093427_budejovice-zpravy_khr
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/jihlava/zpravy/soud-vrchni-olomouc-sanitar-znasilneni-trebic-nemocnice-odvolani-vysocina.A250403_111117_jihlava-zpravy_mv
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/pocasi-mraz-stromy-kvetouci.A250403_054514_domaci_fred
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/antarktida-trump-cla-tucnaci.A250403_081734_eko-zahranicni_fred
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/donald-trump-amerika-cla-obliba-pruzkum.A250402_225520_zahranicni_tmps
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/rozpocet-ministerstvo-zahranici-mzv-ceska-republika.A250402_201924_domaci_tmps
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/rusko-armada-soud-muceni-vrazda-vojaku.A250403_061448_zahranicni_tbr
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/dansko-usa-amerika-jd-vance-trump-frederiksonova-gronsko.A250402_185557_zahranicni_tmps
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/donald-trump-usa-tabulka-cla-prezident-ekonomove-balicek.A250403_102039_eko-zahranicni_jla
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/donald-trump-usa-poradce-mike-waltz-bezpecnost.A250402_145635_zahranicni_dtt
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/kultura/film-televize/top-gun-iceman-maverick-val-kilmer-tom-cruise-smrt-herec-hollywood.A250402_170058_zahranicni_tmps
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/mioldavsko-rusti-agenti-nakupovai-hlasu-volby.A250402_191531_zahranicni_ikul
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/jindrich-petrlik-plasty-benzen-recyklace-ekologie.A250402_200837_domaci_ceve
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/paq-research-dan-z-nemovitosti-navyseni-dane-reforma.A250402_155558_ekonomika_alis
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/usti/zpravy/soud-rozsudek-kravy-uhyn-farma-medenec-ekochov-cmn.A250403_084156_usti-zpravy_grr
+2025-04-12 12:55:32: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/havarie-vodovod-hradcanska-strossmayerovo-namesti-doprava-tramvaj.A250403_083717_praha-zpravy_ikro
+2025-04-12 12:55:32: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/nato/putin-trump-ukrajina-rusko-valka-primeri-mir-dohoda-tlak.A250402_150824_zpr_nato_inc
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/kultura/film-televize/alois-svehlik-smrt-vzpominka-spacilova.A250402_114133_filmvideo_spm
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/olomouc/zpravy/na-zeleznicnim-prejezdu-v-olomouci-vykolejil-vlak-tri-cestujici-jsou-zraneni.A250402_124251_olomouc-zpravy_ba
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/rusko-bombarder-zriceni.A250402_191821_zahranicni_remy
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/francie-soud-emmanuel-macron-prezident-marine-le-penova.A250402_134436_zahranicni_dtt
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/vazba-soud-kauza-motol-nemocnice-budinsky-jansta-kysucan-popovyc.A250402_150655_domaci_svm
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/univerzita-odmeny-akademici-ministerstvo-skolstvi.A250331_073412_domaci_fred
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/rusko-gru-vyhosteni-beloruska-novinarka-sudliankova.A250402_173157_domaci_remy
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/pardubice/zpravy/srna-uvazla-skruz-zachrana-hasici-zvire-past-ochranci-prirody.A250402_110113_pardubice-zpravy_lank
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/evropska-lidova-strana-manual-unik.A250402_101153_zahranicni_ert
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/feri-znasilneni-nezletila-sedmnactileta-poslanec-top-09-soud.A250402_165048_domaci_svm
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/trump-cla-na-automobily-usa-ohrozi-slovensko.A250402_200811_zahranicni_ikul
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/usti/zpravy/teplice-babybox-nemocnice-holcicka-petra-stredova-krajska-zdravotni.A250402_140135_usti-zpravy_grr
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/auta-usa-prodej-cla.A250402_144922_eko-zahranicni_aoc
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/podniky/celni-politika-donald-trump-usa-dopady-prezident-firmy.A250402_113009_ekoakcie_jla
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/ostrava/zpravy/reziser-vymena-manzelek-policista-sebevrazda-soud-trest-podminka.A250402_201736_domaci_dyn
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/vejce-usa-ceny-rust-vyvoz-ptaci-chripka-nedostatek-ceny.A250402_100839_eko-zahranicni_rie
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/kultura/hudba/will-smith-based-on-a-true-story-recenze.A250401_090308_hudba_jgo
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/brno/zpravy/tramvajak-kabela-nehoda-soud-zakaz-rizeni-odvolani.A250402_131930_brno-zpravy_krut
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/policie-pornografie-europol-kriminalita.A250402_152529_zahranicni_aoc
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/plzen/zpravy/stiznost-zalobkyne-stihani-poplach-zcu-strelba-allahu-akbar.A250402_141858_plzen-zpravy_slv
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/regiojet-lounge-cekarna-praha-hlavni-nadrazi-kava.A250331_181229_ekonomika_rie
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/hradec-kralove/zpravy/janske-lazne-krkonose-policie-rolba-muz-umrti-nehoda.A250402_144039_hradec-zpravy_tuu
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/volby/vit-rakusan-kandidatura-ve-strednich-cechach-stan-volby-2025-snemovna.A250402_153419_volby_kop
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/ukrajina-kontrakt-18-24-mladez-armada.A250402_111842_zahranicni_aha
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/ceske-budejovice/zpravy/technologicky-park-pisek-soud-podvod-dotace-jaromir-gregr.A250402_130444_budejovice-zpravy_pkr
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/volby/spd-vlastenci-volby-preference-svobodni-trikolora-pro-ano-spolu-pirati-stacilo-motoriste.A250402_142423_volby_remy
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/norsko-rusko-tanker-pojisteni-sankce-romarine-as.A250402_162019_zahranicni_svm
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/vlada-tiskova-konference-plany-kulhavka-slintavka.A250402_094441_domaci_mul
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/mediahub/radio-svobodna-evropa-zamestnanci-financovani.A250402_131822_mediahub_ijan
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/trump-musk-odchod-z-admistrativy-urad-pro-efektivitu-usa.A250402_182846_zahranicni_ikul
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/volby/vladimir-pikora-marketa-sichtarova-ekonomika-volby-svobodni-motoriste.A250402_132844_volby_svm
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/policie-ozivovani-dite-dalnice-brno-resuscitace-masaz-srdce.A250402_111234_domaci_ikro
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/csob-policie-mastercard-kyberbezpecnost-utoky-kyberhrozba-kyberutoky.A250402_132653_domaci_Ichuc
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/usa-ukrajina-wiesbaden-nemecko-pomoc-valka-rusko.A250401_101436_zahranicni_kha
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/zakon-o-podpore-bydleni-pomoc-lidem-v-bytove-tisni-investice-penzijnich-fondu.A250402_042538_domaci_kop
+2025-04-12 12:55:33: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/penzijni-fondy-sporeni-penzijko-investice-do-bydleni.A250401_153107_ekonomika_alis
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/kultura/film-televize/alois-svehlik-smrt-zemrel.A250402_075425_filmvideo_ts
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/tchaj-wan-cina-blokada-manevry-letadla-valecne-lode-ostrov-peking.A250402_061003_zahranicni_lysa
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/rolex-svycarsko-hodinky-novy-model-sport-elegance.A250402_102232_eko-zahranicni_jadv
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/madarsko-izrael-icc-svobodna-ecropa-orban-netanjahu.A250402_101250_zahranicni_Ichuc
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/usa-nejvyssi-soud-wisconsin-trump-musk-obama-soros.A250402_061013_zahranicni_tbr
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/cina-tchaj-wan-blokada-obrana-manevry-cviceni-usa-pelosiova-invaze.A220809_112430_zahranicni_remy
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/hry/novinky/rozstrel-daniel-vavra-kingdom-come-umlcuji-lidi-progresivismus-woke-cenzura.A250401_160725_bw-novinky_vov
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/hrad-zamek-rozmberk-nad-vltavou-vlada.A250402_112136_domaci_row
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/ostrava/zpravy/kontejner-elektro-odpad-nabijecka-mestska-policie.A250402_094245_ostrava-zpravy_jog
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/slavne-fotografie-valka-o-falklandy-1982-argentina-britanie.A250331_100132_zahranicni_aha
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/ustavni-soud-brno-zakon-obchod-zbozi-ekonomika-rusko-josef-fiala.A250402_093807_domaci_Ichuc
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/pardubice/zpravy/ceska-trebova-nadrazi-modernizace-historie-zeleznice-obrazem.A250401_170844_pardubice-zpravy_lati/foto
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/plzen/zpravy/d5-nehoda-mikrospanek-ridic-kamion-prevratil-bok-ridic-policie.A250402_122042_plzen-zpravy_vb
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/autismus-deti-patron-deti-pribeh-vasika.A250326_100239_domaci_pitt
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/olomouc/zpravy/opily-ridic-alkohol-kamion-dve-a-pul-promile-policie-olomouc.A250402_112352_olomouc-zpravy_stk
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/kultura/divadlo/alois-svehlik-smrt-ohlasy-hercu.A250402_090854_divadlo_ts
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/pozar-byt-dum-caslav-evakuace-hasici-popaleniny.A250402_082457_praha-zpravy_fred
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/olomouc/zpravy/hustopece-vlak-nehoda-benzen-unik-policie-vysetrovani.A250402_090207_olomouc-zpravy_stk
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/wiki/obecne/prazsky-maraton-2018.K5057636
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/svedsko-extremiste-rasismus-deti.A250331_150853_zahranicni_ert
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/sekta-kutna-hora-zubarka-policie-lecitel-umrti-vrazda.A250402_121041_praha-zpravy_lysa
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/kultura/film-televize/zemrel-herec-val-kilmer-top-gun-doors-batman.A250402_063133_filmvideo_tbr
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/brno/zpravy/80-let-od-konce-valky-vzpominky-seniori-brno.A250402_846706_brno-zpravy_krut
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/bezdomovec-zabiti-napadeni-alkohol-uriznuti-rukou-obvineni.A250401_202245_domaci_vals
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/slintavka-kulhavka-nakaza-krizovy-plan-opatreni.A250401_195018_domaci_vals
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/kultura/film-televize/alois-svehlik-role-film-dabing.A250402_094900_filmvideo_jgo/foto
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/trump-putin-ukrajina-valka-primeri-diplomacie-ropa-cla.A250401_191710_zahranicni_vals
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/usti/zpravy/soud-ubodani-otcim-rozsudek-podminka.A250402_114720_usti-zpravy_ba
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/kostarika-usa-donald-trump-prezident-vizum.A250402_092532_zahranicni_dtt
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/slovensko-medvedi-odstrel-vlada-ministr-tomas-taraba.A250402_115243_zahranicni_kha
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/prijimacky-na-stredni-skoly-testy-matematika-telesa.A250401_122744_domaci_poch
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/kultura/film-televize/alois-svehlik-serial-vesnican.A250402_095501_filmvideo_lysa
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/karlovy-vary/zpravy/policie-kradez-bar-penezenka-rybare-patrani.A250402_105816_vary-zpravy_pkz
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/hradec-kralove/zpravy/fotbal-klub-zajemci-akcie-prodej-fc-nedved-ulich-nabidka.A250402_113441_hradec-zpravy_tuu
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/gronsko-usa-trump-prirodni-zdroje-dansko.A250402_113546_zahranicni_svm
+2025-04-12 12:55:33: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/bosna-milorad-dodik-video-moskva-rusko.A250401_090836_zahranicni_kha
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/letadlo-otevreni-dveri-bali-indonesie-melbourne-australie.A250401_202254_zahranicni_pari
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/pardubice/zpravy/chrudim-auto-nehoda-gauc-pohovka-kuriozita-patrani.A250401_093555_pardubice-zpravy_lank
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/ukradeny-balik-slamy-farma-jezek.A250401_150031_praha-zpravy_pari
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/lidl-penny-banik-ostrava-pid-hollandia-april-zert.A250401_120929_domaci_Ichuc
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/stubb-trump-setkani-ukrajina-ledoborce.A250401_130448_zahranicni_ert
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/alzheimer-domov-roztoky-soud-trest-pozar-obzaloba.A250401_152604_praha-zpravy_fred
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/doprava/usa-trump-cla-turismus-turiste-cesty-amerika-ruseni-hotely-letadla-accor.A250401_130107_eko-doprava_jadv
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/reykjavik-sopka-vulkan-lava-island-zemetreseni.A250401_145806_zahranicni_Ichuc
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/brno/zpravy/policiste-dalnice-d1-d2-oziveni-novorozenec-nedychal-rodice.A250401_151026_brno-zpravy_krut
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/valka-zasoby-jidlo-piti-72-hodin-plan-eu-izrael-konflikt-psychika.A250331_194856_zahranicni_varg
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/volby/karel-havlicek-debata-reporyje-sokolovna-pavel-novotny.A250401_160129_domaci_pari
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/izrael-benjamin-netanjahu-sin-bet-usa-tlak-eli-sarvit.A250401_141729_zahranicni_dtt
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/banky-hotovost-prepazka-pokladna.A250324_120755_ekonomika_ven
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/petr-pavel-blazek-ministr-spravedlnosti-setkani-hrad.A250401_130226_domaci_kurl
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/olomouc/zpravy/loupez-zlatnictvi-olomouc-prsteny-pronasledovani-vojak-soud.A250401_104506_olomouc-zpravy_stk
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/olomouc/zpravy/hustopece-nad-becvou-benzen-prvni-otrava-ryby-kontaminace.A250401_115157_olomouc-zpravy_stk
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/bondiova-mangione-usa-vrazda-pojistovna-thompson-unitedhealthcare-trest-smrti.A250401_183403_zahranicni_jhr
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/litva-americky-vojak-smrt-bazina-obrnenec.A250401_183913_zahranicni_kurl
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/kampan-hnuti-ano-trestni-oznameni-pomluva.A250401_165418_domaci_vank
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/europoslanci-debata-ceske-zajmy-v-evrope-investice-do-obrany.A250401_174934_domaci_vank
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/volby/debata-volby-do-snemovny-koalice-spojeni-vice-stran.A250401_155043_domaci_vank
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/dovolena-blue-style-hurghada-egypt-ukrajinska-letecka-spolecnost.A250401_140513_ekonomika_rie
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/ukrajina-rusko-pohranici-nahravka-rozvedka-rusove-kritika.A250401_192905_zahranicni_kurl
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/policie-gibs-pes-utok-policista-strelba-vysetrovani.A250401_153521_praha-zpravy_Ichuc
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/etcs-zabezpecovaci-zarizeni-zeleznice-vlak-navestidlo.A250401_165915_domaci_vals
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/slintavka-kulhavka-hranice-nakaza-armada-veterinarni-sprava.A250401_191555_domaci_pari
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/automobilky-emise-evropska-komise.A250401_165930_eko-zahranicni_kurl
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/donald-trump-cla-americke-firmy-dopady-tlak-ceny-vyroba.A250401_142157_eko-zahranicni_jla
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/antibiotika-uzivana-v-cizine-mohou-zvysit-riziko-nakazy-bakterii.A250401_180717_domaci_lupr
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/postreleny-muz-praha-petrin-senior-strelba-sebevrazda.A250401_141602_praha-zpravy_fred
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/mediahub/radio-svobodna-evropa-zamestnanci-neplacena-dovolena-nedostatek-financi.A250401_203414_zahranicni_pari
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/ruskop-putin-oslavy-kveten-valy-vitezstvi-si-tin-pching.A250401_164006_zahranicni_bro
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/kultura/hudba/marilyn-manson-koncert-praha-fortuna-2025.A250401_114648_hudba_jgo
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/reciprocni-dovozni-cla-co-nevidet-bily-dum-trump.A250401_193447_zahranicni_lupr
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/hradec-kralove/zpravy/falesna-helena-vondrackova-podvod-kopidlno-penize-policie.A250401_153906_hradec-zpravy_the
+2025-04-12 12:55:33: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/karlovy-vary/zpravy/doprava-dalnice-d6-karlovy-vary-praha-vystavba-dokonceni-matl.A250401_094308_vary-zpravy_pkz
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/izrael-uder-bejrut-libanon-hizballah.A250401_060252_zahranicni_tbr
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/brno/zpravy/slintavka-kulhavka-agrarni-komora-zadost-mimoradna-situace.A250401_114848_brno-zpravy_krut
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/eutanazie-asistovana-sebevrazda-lekari-smrtelnik-lekarska-komora-poslanci.A250331_174049_domaci_tml
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/le-penova-soud-budoucnost-volby-prezident-francie.A250401_101926_zahranicni_ert
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/predpoved-pocasi-duben-vikend-srazky-mrazy-meteorologie.A250401_071905_domaci_lysa
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/ostrava/zpravy/april-lidove-ceny-obedove-menu-levne-pivo.A250401_101218_ostrava-zpravy_zah
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/marine-le-penova-soud-zakaz-volby-politika-podvod-francie.A250331_184416_zahranicni_krd
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/zbraslav-vila-developer-demolice.A250331_102910_praha-zpravy_herp/foto
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/francie-marine-le-penova-soud-evropska-unie-zpronevera.A250401_085354_zahranicni_dtt
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/ukrajina-zelenskyj-majetkove-priznani.A250401_065040_zahranicni_tbr
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/volby/zlin/volby-snemovna-blaha-lidr-spolu-stan-hledaji.A250401_846492_zlin-zpravy_jfuk
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/usa-trump-cla-americane-spotrebitele-utraceni-setreni-nejistota.A250401_101213_eko-zahranicni_jadv
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/slintavka-kulhavka-jake-jsou-priznaky-aktualni-opatreni.A250327_091832_domaci_zust
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/regiojet-vlaky-ceske-drahy-pid-mhd-praha-doprava.A250401_102139_praha-zpravy_fred
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/tchaj-wan-cina-vojsko-manevry-ostrov-nezavislost.A250401_061134_zahranicni_lysa
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/trump-le-penova-soud-francie-zpronevera.A250401_061421_zahranicni_tbr
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/pardubice/zpravy/policka-strojirny-pozar-municka-hasici.A250401_103500_jihlava-zpravy_epkbn
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/kultura/aktuality/kulturu-nezastavis-iniciativa-covid-pandemie-vystava.A250401_115623_show_aktual_kurl/foto
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/le-penova-francie-narodni-sdruzeni-soud-noviny-francie.A250401_130139_zahranicni_jhr
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/fotbal/prvni-liga/fortuna-liga-majitele-klubu.A231213_104652_fotbal_jic
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/lenka-bradacova-nejvyssi-statni-zastupkyne-jmenovani-pavel-blazek-petr-fiala.A250331_180059_domaci_mls
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/ffuk-strelba-ustavni-soud-komise-obeti-praha-pozustali.A250401_103554_zahranicni_Ichuc
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/kultura/film-televize/jiri-havel-smrt-zemrel-ned-flanders-dabing.A250401_083209_filmvideo_ts
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/bitka-mlada-boleslav-policie-svedci-pokus-o-vrazdu.A250401_125852_praha-zpravy_fred
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/europarlament-nagyova-imunita-capi-hnizdo.A250401_062846_zahranicni_lysa
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/mediahub/tv-prima-nova-kreativni-divize.A250401_114319_mediahub_jpl
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/kultura/film-televize/the-beatles-film-sam-mendes-ferstival-hudba-cinemacon-umeni.A250401_092619_filmvideo_Ichuc
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/prijimaci-zkousky-stredni-skoly-testy-matematika-grafy.A250331_173104_domaci_poch
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/thajsko-barma-zemetreseni-katastrofa-mrtvi-min-aun-hlain.A250401_094052_zahranicni_lysa
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/stechovice-lod-delnici-utonuly-nehoda-pramice-remorker-policie.A250401_110001_praha-zpravy_fred
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/univerzira-karlova-socialni-sit-x-elon-musk-algoritmy-odchod.A250401_112350_domaci_Ichuc
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/volby/volby-kampan-politika-pecina-michailidu-poradce-vlada.A250331_181115_domaci_krd
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/podniky/hooters-retezec-usa-firma-trh-znacka-servirky-bankrot.A250401_111938_ekoakcie_jla
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/statni-rozpocet-brezen-2025-stanjura-schodek.A250401_134100_ekonomika_alis
+2025-04-12 12:55:33: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/bolest-kloubu-artritida-revma-leky.A250331_175618_domaci_varg
+2025-04-12 12:55:33: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/pardubice/zpravy/janecky-pardubice-stihani-policie.A250331_183813_pardubice-zpravy_remy
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/doprava/uohs-antimonopolni-urad-letiste-poplatky-stiznost-ryanair-stiznost.A250331_165008_eko-doprava_jadv
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/plzen/zpravy/soud-studenti-zcu-poplach-strelba-allahu-akbar-potrestani.A250331_134709_plzen-zpravy_vb
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/rusko-branci-nabor-odvod-armada-vojenska-sluzba.A250331_183431_zahranicni_kurl
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/liberec/zpravy/honicka-policiste-volno-auto-potok-strecha-nehoda.A250331_142331_liberec-zpravy_jape
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/praha-dvorecky-most-podoli-smichov-dejvice-foto.A250328_150243_praha-zpravy_herp/foto
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/umela-inteligence-ai-act-narizeni-regulace.A250328_151814_domaci_mul
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/policie-rim-italie-tesla-elon-musk-donald-trump.A250331_191048_zahranicni_berr
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/ostrava/zpravy/okd-konec-tezby-uhli-fiala-stanjura-odbory-jednani-ekonomika.A250331_101307_ostrava-zpravy_dmk
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/doprava/letenky-velikonoce-praha.A250324_122054_eko-doprava_ven
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/robert-fico-slovensko-evropska-komise-ursula-von-der-leyenova-vtip.A250331_221856_zahranicni_idh
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/usa-vejce-ptaci-chripka-dodavky-evropa-polsko-hygiena.A250328_150930_eko-zahranicni_jla
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/usa-los-angeles-kalifornie-palmy-rostlina-stin-pozar-vysadba-hollywood-odbornici.A250331_112209_eko-zahranicni_jadv
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/omezeni-provozu-tramvaj-nehoda-dpp-praha-dopravni-podnik.A250331_161704_praha-zpravy_berr
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/rusko-neznamy-virus-horecky-kasel-krev.A250331_100537_zahranicni_kha
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/ukrajina-rusko-valka-obvineni-soud-olga-bykovska-trest-manzele.A250331_201639_zahranicni_idh
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/dvojnik-putin-rusko.A250326_120337_zahranicni_aha
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/litva-amerika-vojaci-pohresovani-armada.A250331_080707_zahranicni_herp
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/francie-le-penova-soud-bardella-narodni-sdruzeni.A250331_201352_zahranicni_jhr
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/loch-ness-prisera-snimek-fotogafie-fotoaparat-jezero.A250331_210320_zahranicni_kurl
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/ostrava/zpravy/nelegalni-skladka-odpad-jirikov-bruntal-brno-horni-herspice-petr-hladik-ministr-zivotni-prostredi.A250331_193851_ostrava-zpravy_idh
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/patrik-tusl-na-svobode-soud.A250331_210601_domaci_idh
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/trump-migrace-zelena-karta-navrat-usa-trvaly-pobyt.A250331_123221_zahranicni_ert
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/dalnice-d11-oprava-sadska-nymburk-velenky-pokladka-asfaltu-omezeni-provoz-doprava-reditelstvi-silnic.A250331_182606_praha-zpravy_idh
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/konopi-marihuana-drogy-legalizace-pirati-tresty.A250331_184234_domaci_berr
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/ministr-vyborny-k-opatrenim-ohledne-slintavky.A250331_132457_domaci_doub
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/vrazdy-1-oddeleni-kriminalistika-mares-molacova-drogy.A221003_175355_domaci_mejt
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/plzen/zpravy/zelena-hora-zamek-nepomuk-plzen-prodej-cerni-baroni-klaster.A250331_172037_plzen-zpravy_idh
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/usa-donald-trump-prezident-funkcni-obdobi.A250331_090434_zahranicni_dtt
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/kultura/hudba/olympic-bombardak-nova-deska-krest-lucie.A250331_151713_hudba_jgo
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/francie-le-penova-rozsudek-narodni-sdruzeni.A250331_154507_zahranicni_jhr
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/brno/zpravy/skola-kotlarska-sikana-novy-reditel-pavel-vyhnak-slapanice.A250331_145021_brno-zpravy_krut
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/rekonstrukce-prazsky-okruh-slivenec-lochkovsky-tunel-rsd-doprava.A250331_124415_praha-zpravy_ba
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/usti/zpravy/usti-mhd-trolejbus-utocnik-nuz-napadeni-vyhrozovani-policie.A250331_170244_usti-zpravy_kurl
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/marine-le-pen-soud-verdikt-podvod-eu.A250331_110300_zahranicni_ert
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/hradec-kralove/zpravy/hasici-policie-nemocnice-komin-zachrana-zena-vyjednavac.A250331_134821_hradec-zpravy_tuu
+2025-04-12 12:55:34: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/cukrovka-senzory-zakon-ministerstvo-haluzik-milata.A250330_213518_domaci_iles
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/usti/zpravy/vlak-zeleznice-poskozene-trakcni-vedeni-evakuace.A250331_092224_usti-zpravy_ba
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/mentalni-zdravi-deti-zamestnancu-firmy-psycholozka.A250310_144409_domaci_pitt
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/magnolie-bily-dum-jackson-odstraneni.A250331_095559_zahranicni_ert
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/barma-thajsko-jihovychodni-asie-zemetreseni-smrt.A250331_071957_zahranicni_herp
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/wiki/temata/jarni-prazdniny.K481589
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/slovensko-detva-medved-utok.A250331_091618_zahranicni_kha
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/soud-trest-detska-pornografie-snizeni-trestu-synek.A250331_121539_domaci_rtn
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/ceske-budejovice/zpravy/srdce-vltavy-sumava-vltava-pocasi-lipno-prehrada-zima.A250331_104440_budejovice-zpravy_plu
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/lod-utopeni-prehrada-stechovice.A250331_085846_praha-zpravy_fred
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/volby/stacilo-volby-snemovna-konecna-bobosikova-sterzik-kscm.A250331_104149_ostrava-zpravy_jog
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/kultura/literatura/vymahacka-martin-muller-recenze.A250331_103813_literatura_ts
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/usa-rusko-nerosty-trump-putin-kovy.A250331_062607_zahranicni_herp
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/volodymyr-zelenskyj-vladimir-putin-ukrajina-rusko-valka-prezidentske-volby-usa-donald-trump.A250331_131405_zahranicni_dtt
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/brno/zpravy/muz-maceta-honicka-venceni-pohled-na-psa-vazba-boskovice.A250331_094222_brno-zpravy_krut
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/svycarsko-obchod-vloupani-zlodej-smrt-dvere.A250331_094955_zahranicni_bro
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/plzen/zpravy/krimice-nehoda-mikrobus-cizinec-ridic-opily-kokain-zraneni.A250331_112426_plzen-zpravy_vb
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/iran-chamenei-usa-trump-bombardovani-jaderna-dohoda.A250331_134114_zahranicni_kha
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/karlovy-vary/zpravy/policie-nasili-napadeni-nemocnice-vazba-habartov.A250331_120257_vary-zpravy_pkz
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/mediahub/cesky-vybor-international-press-institute-vyzva-politici.A250331_105208_mediahub_jpl
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/policie-vyhruzka-utok-skola-zadrzeni.A250331_121655_praha-zpravy_herp
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/italie-prelet-dronu-maggiore-spionaz-vysetrovani-rusko.A250331_121109_zahranicni_kha
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/ceske-budejovice/zpravy/zena-pokus-vrazdy-muz-spal-znamy-byt-priznani-policie.A250331_122003_budejovice-zpravy_khr
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/prezident-pavel-armada-valka-na-ukrajine-evropa-prispevek.A250331_144618_domaci_berr
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/cesko-lipavsky-zemetreseni-barma-pomoc-pet-milionu-korun.A250331_120504_domaci_rtn
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/ostrava/zpravy/recidivista-auta-kradeze-prodejna-rukopis-policie.A250331_102523_ostrava-zpravy_dmk
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/brno/zpravy/operace-novy-nos-rakovina-chirurgove-fnusa-nemocnice-plastila.A250331_131057_brno-zpravy_krut
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/zakaz-rizeni-lustrace-zadrzeni-drogy-policie-straznici-hledany.A250326_115137_praha-zpravy_lysa
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/podniky/volvo-cla-ceo-svedsko-geely-cina-vyroba-akcie-vysledky.A250331_113312_ekoakcie_jla
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/kultura/hudba/tom-hanks-forrest-gump-klip-chet-you-better-run.A250331_120940_hudba_berr
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/zahranici-diplomacie-estonsko-singapur-senegal-lipavsky.A250331_131617_domaci_herp
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/kultura/film-televize/bruce-glover-james-bond-roman-polanski.A250331_093235_filmvideo_jgo
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/nato/dansko-f-35-armada-usa-trump-gronsko-obrana-patriot.A250331_144834_zpr_nato_inc
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/benzen-nehoda-hustopece-nad-becvou-kontaminace-tezba-stav-nebezpeci.A250331_102533_domaci_misl
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/cnb-hospodareni-michl-menova-politika.A250331_123902_ekonomika_alis
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/zasilkovna-boxy-spatne-umisteni-alza-zakaznici.A250326_135413_ekonomika_dyn
+2025-04-12 12:55:34: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/autonomni-auto-rizeni-pojisteni-nehody-reakce-pojistka.A250330_185445_ekonomika_vals
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/airbus-letadlo-na-vodikovy-pohon.A250330_122837_eko-zahranicni_Ichuc
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/temne-osvicenstvi-trump-vance-thiel-yarvin-usa-startup-ceo.A250327_105926_zahranicni_jhr
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/slintavka-kulhavka-slovensko-malacky-opatreni-na-hranicich.A250330_141457_zahranicni_ijan
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/politik-podcast-volebni-kampan-volby-2025-babis-rakusan.A250330_195055_domaci_vals
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/vojenska-junta-barma-boj-opozice-zemetreseni.A250330_210949_zahranicni_pari
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/rusko-ukrajina-manzelky-nevera-sexualni-nasili.A250325_131323_zahranicni_jhr
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/pardubice/zpravy/policie-trida-miru-nasilna-smrt.A250329_072829_pardubice-zpravy_lati
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/smrskflace-zdrazovani-potraviny-baleni-objem.A250330_202640_domaci_vals
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/tongo-vlna-cunami-zemetreseni-prirodni-katastrofa.A250330_151916_zahranicni_Ichuc
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/vaclav-moravec-ct-debata-bezpecnost-vlada-opozice.A250330_111717_domaci_dyn
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/usa-donald-trump-vladimir-putin-volodymyr-zelenskyj.A250330_161502_zahranicni_pari
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/kultura/divadlo/manon-lescaut-narodni-divadlo.A250330_113312_divadlo_era
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/japonsko-restaurace-krysa-v-jidle.A250331_075008_eko-zahranicni_tbr
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/pavel-blazek-zdenek-stepanek-vrchni-statni-zastupitelstvi-jana-cernochova.A250331_091416_domaci_herp
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/volby/ano-spolu-predvolebni-pruzkum-skolnik-politolog.A250330_140310_volby_tty
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/pardubice/zpravy/pardubice-smrt-potycka-cizinci-policie-trest.A250330_132111_pardubice-zpravy_svm
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/pozar-rodinny-dum-lochovice-berounsko-hasici.A250330_185421_praha-zpravy_pari
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/prijimacky-na-stredni-skoly-testy-matematika-utvary.A250328_181539_domaci_poch
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/policie-patrani-senior-dopis-na-rozloucenou.A250329_105711_praha-zpravy_svm
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/zemedelstvi-energetika-solar-agrovoltaika.A250330_154738_ekonomika_drh
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/vytvarnik-roman-kotrc-umrti.A250330_214304_domaci_pari
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/usa-cla-donald-trump-dopady-automobilka-porsche-nemecko.A250328_120533_eko-zahranicni_jla
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/kanada-ledova-boure-vypadky-elektriny-ontario.A250331_063723_zahranicni_tbr
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/finance/financni-radce/nakupy-investice-ukotveni-cena-rozhodovani-psychologie.A250328_110246_viteze_sov
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/videa-tydne-gynekolozka-thajsko-barma-ponorka-putin.A250330_161419_domaci_vojt
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/trump-zelenskyj-smlouva-nerosty.A250331_055224_zahranicni_tbr
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/socialni-geografove-netrdova-sudety-fantomova-hranice.A250326_845594_domaci_tty
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/kultura/film-televize/usa-herec-smrt-richard-chamberlain-dr-kildare-sogun-ptaci-v-trni.A250330_150400_filmvideo_pari
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/zdravi-zloutenka-hepatitida-a-cesko.A250331_073030_domaci_herp
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/pocasi-duben-jaro-dest-prehanky-snih-slunecno.A250331_060027_domaci_herp
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/prani-spinavych-penez-kambodza-usa.A250330_182844_zahranicni_vals
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/praha-namestek-kultura-rezignace-jiri-pospisil-tomas-slabihoudek.A250330_164020_praha-zpravy_pari
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/kurdove-iran-lidska-prava-paseraci-irak-dokument-rozhovor.A250318_135905_zahranicni_rtn
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/narodni-park-krivoklatsko.A250329_225621_domaci_row
+2025-04-12 12:55:34: ✅ Článek již navštíven: https://www.idnes.cz/kultura/literatura/alena-mornstajnova-cas-vos-kauza-les-v-dome-rozhovor.A250317_113843_literatura_pitt
+2025-04-12 12:55:34: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/usa-ukrajina-rusko-primeri-tlak-zelenskyj.A250330_072043_zahranicni_tty
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/bankovka-stokoruna-rolnici-autor-herman-dcera-pribeh-numismatika.A250319_843804_ekonomika_ceve
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/pardubice/zpravy/motokros-zavodnik-smrt-policie-pitva-svitavsko.A250330_095343_pardubice-zpravy_svm
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/norsko-trondheim-utok-nozem-smrt-resuscitace.A250329_194916_zahranicni_pari
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/nejvyssi-statni-zastupce-igor-striz-lenka-bradacova-rozhovor-funkce-olomouc-brno-justice.A250330_084513_domaci_Ichuc
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/slavne-fotografie-nejznamejsi-ufo-calvine-skotsko-podvrh.A250323_095521_zahranicni_misl
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/barma-zemetreseni-bangkok-thajsko-obeti-zadost-pomoc-mzv-ambasada-cesko.A250329_125929_zahranicni_idh
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/velka-britanie-norfolk-telefonni-budka.A250327_122708_eko-zahranicni_jadv
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/nato-evropa-ukrajina-rusko-jakub-landovsky-velvyslanec.A250327_201642_domaci_krd
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/historicka-milena-lenderova-zeny-feminismus-znasilneni.A250328_845940_praha-zpravy_herp
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/syrie-ahmad-sara-clenove-prechodna-vlada.A250329_221534_zahranicni_pari
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/bezos-svatba-benatky-jachta.A250330_083657_eko-zahranicni_tty
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/revue/spolecnost/monika-absolonova-album-laska-rodiny-synove-tadeas-matous.A250325_104645_lidicky_zar
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/brno/zpravy/referendum-znojmo-vysledky-mestske-lazne-hasicska-zbrojnice-urad-sportovni-hala.A250330_085102_brno-zpravy_azu
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/politika-strany-smucler-svoboda-kalousek.A250324_845265_domaci_hovo
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/lidl-outlet-sterboholy-nakup-fronty-zbozi.A250325_141658_ekonomika_vebe
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/donald-trump-usa-evropa-auta-cla-automobilky-eu.A250330_110426_eko-zahranicni_Ichuc
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/mexiko-masovy-hrob-vysetrovani-drogovy-kartel-krematoria-tabor-vlada-demonstrace.A250326_132206_zahranicni_dtt
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/inspirativni-zeny-jana-renner-spisovatelka.A250228_143454_domaci_pitt
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/xman/rozhovory/jan-zrzavy-biolog-evoluce-zloba-civilizace-altruismus-mir.A250326_844886_xman-rozhovory_krd
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/zazitkova-gastronomie-restaurace-pariz-more-vesmir-jidlo.A250330_085748_eko-zahranicni_svm
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/barma-myanmar-zemetreseni-asie-pohroma-pomoc-penize-humanitarni-pomoc.A250330_115051_zahranicni_Ichuc
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/aerolinky-lufthansa-allegris-byznys-trida-first-class.A250327_121940_eko-zahranicni_rie
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/havlicek-lipavsky-debata-obrana-bezpecnost.A250330_105743_domaci_tty
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/pardubice/zpravy/motokros-smrt-policie-zavod.A250329_155151_pardubice-zpravy_svm
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/izrael-pasmo-gazy-palestina-pozemni-operace.A250329_191754_zahranicni_pari
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/hlidani-deti-skupiny-rodice-chuva-poplatek-stat-prispevek.A250323_193013_domaci_stud
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/prijimacky-na-stredni-skoly-velky-test-cestina-ke-stazeni-opakovani.A250328_160152_domaci_poch
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/ihor-zobkiv-bez-nohou-protezy-hoverla-ukrajina-zadost-o-ruku.A250326_181004_zahranicni_ikul/foto
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/francie-pariz-auta-ulice-parkovaci-mista-ekologie.A250325_125409_eko-zahranicni_rie
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/ukrajina-rusko-valka-nocni-utok-boje-dnipra-obeti-zraneni-skody-pozary.A250329_093730_zahranicni_idh
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/finance/prace-a-podnikani/work-life-balance-generace-z-prace-zamestnani.A250314_843695_podnikani_sov
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/plzen/zpravy/chodec-vlak-zavory-smrt-policie-expres.A250330_100759_plzen-zpravy_svm
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/komunismus-zlocin-vystrovani-dalimil-syptak.A250330_083115_domaci_Ichuc
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/reditel-skoly-konkurz-uchazec-administrativa-spory-inspekce.A250328_174924_domaci_vals
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/volby/volebni-model-pruzkum-cnn-ano-spd-motoricke-starostove.A250330_105400_volby_tty
+2025-04-12 12:55:35: Jak vypadaji promenne 1.+1.+2025
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/nemecko-flessner-vlada-nasilny-protest-media.A250328_193418_zahranicni_vals
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/barma-zemetreseni-bangkok-thajsko.A250328_090734_zahranicni_kha
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/zelenskyj-ukrajina-putin-rusko-valka.A250328_175229_zahranicni_jhr
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/cestovani-usa-aerolinky-pokles-poptavky.A250328_110914_eko-zahranicni_rie
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/soud-nemecko-mnichov-podvod-cech-senior-okradani.A250328_180325_zahranicni_Ichuc
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/haiti-kena-policiste-nasili.A250328_150259_zahranicni_jhr
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/doprava/tiktok-v-nemecku-spousti-novou-funkci-prodeje-prvni-se-pripojuje-about-you.A250327_124508_eko-doprava_vebe
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/jeruzalemska-synagoga-policie-praha-pyrotechnik-vybusnina.A250329_093830_praha-zpravy_svm
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/jihlava/zpravy/rozhovor-josef-soukal-zdar-nad-sazavou-zavislost-terapeut-drogy-lecba.A250328_845962_jihlava-zpravy_mv
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/ukrajina-cesko-valka-vojaci-dobrovolnici-phoenix-pomoc-obeti.A250329_134333_zahranicni_idh
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/hotel-developer-projekt-chranena-oblast-adrspach-skaly-turiste.A250324_170331_domaci_varg
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/kolumbijska-univerzita-trump-katrina-amstrongova.A250329_074345_zahranicni_tty
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/madlenka-kostni-dren-darcovstvi.A250329_094010_domaci_tty
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/kultura/film-televize/minecraft-film-momoa-jack-black.A250326_201043_filmvideo_spm
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/sredocesky-kraj-vlak-ceske-drahy.A250328_192621_domaci_Ichuc
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/argentina-smrt-schindleruv-seznam-holocaust-oskar-schindler-zide-francisco-wichter.A250329_084005_zahranicni_idh
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/plzen/zpravy/nehoda-dalnice-d5-tachov-rozvadov-nakladni-auto-osobni-auto.A250328_195603_plzen-zpravy_berr
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/zoo-praha-sezona-bobek-medvedi-strasilka.A250329_134205_praha-zpravy_svm
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/rusko-slovane-etnika-diskriminace-zamestnavatele-smlouvy.A250324_142824_zahranicni_kha
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/mikola-ai-cvut-penize-vyzkum-google-facebook.A250328_200034_ekonomika_svm
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/eu-svedsko-retezec-potraviny-ceny-narust-bojkot-zakaznici-naklady-konkurence.A250325_150137_eko-zahranicni_jadv
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/pardubice/zpravy/vystavba-sauna-dolni-morava-kralicky-sneznik-soud-developer.A250328_150115_pardubice-zpravy_lank
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/nizozemsko-amsterodam-utok-nuz-ukrajinec-doneck.A250329_115313_zahranicni_idh
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/barma-zemetreseni-thajsko-bangkok-obeti.A250329_053812_zahranicni_hovo
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/motol-korupcni-kauza-plat-nemovitosti-ludvik-budinsky.A250328_182625_domaci_vals
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/finance/prace-a-podnikani/detsky-domov-neviditelni-provident-fitness.A250327_090711_podnikani_daja
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/zahranicni/turiste-poptavka-zajem-asie-thajsko-vietnam-navstevnost.A250325_155454_eko-zahranicni_jla
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/rusko-rusagro-vadim-moskovic.A250328_095422_zahranicni_aha
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/ekonomika/domaci/martin-janicko-rozhovor-volny-cas-prace-mnd.A250328_145655_ekonomika_alis
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/volby/jan-zahradil-ods-motoriste-expert.A250329_090350_volby_tty
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/vance-usa-gronsko-vojaci-jens-frederik-nielsen-jens-frederik-nielsen.A250328_173232_zahranicni_jhr
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/praha/zpravy/lahovice-pozar-chatka-hasici-telo.A250329_084039_praha-zpravy_svm
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/rusko-ukrajina-valka-ztraty-vojaci-pokrovsk-usa-mir.A250328_214733_zahranicni_svm
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/zahranicni/x-twitter-elon-musk-prodal-socialni-sit.A250329_071354_zahranicni_tty
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/prijimacky-na-stredni-skoly-testy-logika-cestina-ulohy.A250327_172124_domaci_poch
+2025-04-12 12:55:35: ✅ Článek již navštíven: https://www.idnes.cz/zpravy/domaci/zmena-casu-mel-by-byt-zrusen-letni-cas.A250325_090254_domaci_zust
+2025-04-12 12:55:35: Jak vypadaji promenne 1.+1.+2025

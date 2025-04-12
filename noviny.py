@@ -108,11 +108,27 @@ while True:
 
     for odkaz in odkazy:
         if odkaz in navstivene:
+            log_udalost(f"✅ Článek již navštíven: {odkaz}")
             continue
 
         log_udalost(f"🔍 Kontroluji článek: {odkaz}")
         try:
             html = requests.get(odkaz, cookies=cookies, headers=HEADERS, timeout=10).text
+
+            soup = BeautifulSoup(html, "html.parser")
+            time_span = soup.find("span", class_="time-date", itemprop="datePublished")
+            if time_span and time_span.get("content"):
+                datum_clanku = time_span["content"]
+                log_udalost(f"📅 Datum článku: {datum_clanku}")
+            else:
+                log_udalost("⚠️ Datum článku nenalezeno.")
+
+            last_date = "2025-03-20"
+            if datum_clanku < last_date:
+                log_udalost(f"🛑 Článek je starší než {last_date}. Ukončuji cyklus.")
+                break
+            
+
             match = SOUTEZNI_REGEX.search(html)
             if match:
                 soutez_odkaz = match.group(0)
