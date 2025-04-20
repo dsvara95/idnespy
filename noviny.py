@@ -4,19 +4,18 @@ from datetime import datetime
 import re
 import time
 import random
-import webbrowser
 from urllib.parse import quote_plus
 from pathlib import Path
 import argparse
-import sys
 import json
 
-# ==== PARSOVÁNÍ ARGUMENTŮ ====
+# ==== PARSOVÁNÍ ARGUMENTU --jmeno ====
 parser = argparse.ArgumentParser(description="Skript pro iDNES soutěže")
-parser.add_argument("--jmeno", choices=["david", "hanka"], required=True, help="Zadej jméno: david nebo hanka")
+parser.add_argument("--jmeno", required=True, help="Zadej jméno, např. 'david' nebo 'hanka'")
 args = parser.parse_args()
 
 JMENO = args.jmeno.lower()
+JMENO_HLEDANI = JMENO.capitalize()  # pro hledání v HTML
 COOKIES_FILE = f"cookies_{JMENO}.json"
 NAVSTIVENE_SOUBOR = f"navstivene_{JMENO}.txt"
 LOG_SOUBOR = f"soutez_log_{JMENO}.txt"
@@ -54,7 +53,7 @@ def uloz_navstiveny(odkaz):
 def je_prihlaseny(cookies):
     try:
         r = requests.get("https://www.idnes.cz/ucet", cookies=cookies, headers=HEADERS)
-        return "David Švára" in r.text or "Hana Vorlova" in r.text  # nebo upravit dle potřeby
+        return JMENO_HLEDANI in r.text
     except:
         return False
 
@@ -79,6 +78,7 @@ def ziskej_odkazy_z_archivu(datum, stranka=1):
     return list(set(odkazy))
 
 # ==== HLAVNÍ LOGIKA ====
+
 datum_puvodni = "1. 1. 2025"
 datum = quote_plus(datum_puvodni)
 
@@ -104,6 +104,8 @@ while True:
         try:
             html = requests.get(odkaz, cookies=cookies, headers=HEADERS, timeout=10).text
             soup = BeautifulSoup(html, "html.parser")
+
+            # === NOVÁ ČÁST: zjištění data aktualizace ===
             time_span = soup.find("span", class_="time-date", itemprop="datePublished")
             aktual_span = soup.find("span", class_="aktual")
             datum_aktualizace = None
@@ -123,7 +125,7 @@ while True:
                 datum_clanku = "9999-12-31"  # fallback
 
             last_date = "2025-03-20"
-            if datum_clanku < last_date or (datum_aktualizace and datum_aktualizace < last_date):
+            if datum_clanku < last_date and (datum_aktualizace and datum_aktualizace < last_date):
                 log_udalost(f"🛑 Článek je starší než {last_date}. Ukončuji cyklus.")
                 exit()
 
