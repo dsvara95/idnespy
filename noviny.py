@@ -105,6 +105,16 @@ while True:
             html = requests.get(odkaz, cookies=cookies, headers=HEADERS, timeout=10).text
             soup = BeautifulSoup(html, "html.parser")
             time_span = soup.find("span", class_="time-date", itemprop="datePublished")
+            aktual_span = soup.find("span", class_="aktual")
+            datum_aktualizace = None
+            if aktual_span:
+                date_modified = aktual_span.find("span", itemprop="dateModified")
+                if date_modified and date_modified.get("content"):
+                    datum_aktualizace = date_modified["content"].split("T")[0]
+                    log_udalost(f"📅 Datum aktualizace článku: {datum_aktualizace}")
+                else:
+                    log_udalost("⚠️ Datum aktualizace článku nenalezeno.")
+
             if time_span and time_span.get("content"):
                 datum_clanku = time_span["content"]
                 log_udalost(f"📅 Datum článku: {datum_clanku}")
@@ -113,7 +123,7 @@ while True:
                 datum_clanku = "9999-12-31"  # fallback
 
             last_date = "2025-03-20"
-            if datum_clanku < last_date:
+            if datum_clanku < last_date or (datum_aktualizace and datum_aktualizace < last_date):
                 log_udalost(f"🛑 Článek je starší než {last_date}. Ukončuji cyklus.")
                 exit()
 
