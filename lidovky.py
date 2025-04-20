@@ -53,7 +53,7 @@ def uloz_navstiveny(odkaz):
 def je_prihlaseny(cookies):
     try:
         r = requests.get("https://www.idnes.cz/ucet", cookies=cookies, headers=HEADERS)
-        return "David Švára" in r.text or "Hanka" in r.text  # případně upravit podle textu na stránce
+        return "David Švára" in r.text or "Hana Vorlova" in r.text  # nebo upravit dle potřeby
     except:
         return False
 
