@@ -7,35 +7,28 @@ import random
 import webbrowser
 from urllib.parse import quote_plus
 from pathlib import Path
+import argparse
+import sys
+import json
 
-## === important for edge brw === ##
-#import subprocess
-#import os
+# ==== PARSOVÁNÍ ARGUMENTŮ ====
+parser = argparse.ArgumentParser(description="Skript pro iDNES soutěže")
+parser.add_argument("--jmeno", choices=["david", "hanka"], required=True, help="Zadej jméno: david nebo hanka")
+args = parser.parse_args()
+
+JMENO = args.jmeno.lower()
+COOKIES_FILE = f"cookies_{JMENO}.json"
+NAVSTIVENE_SOUBOR = f"navstivene_{JMENO}.txt"
+LOG_SOUBOR = f"soutez_log_{JMENO}.txt"
 
 # ==== NASTAVENÍ ====
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0"
 }
-COOKIES_FILE = "cookies.json"
-NAVSTIVENE_SOUBOR = "navstivene.txt"
 SOUTEZNI_REGEX = re.compile(r"https://www\.idnes\.cz/ekonomika/megahra-o-auto[^\"]+")
 
 # ==== FUNKCE ====
-#def otevri_edge_a_zavri(url, cekani_vterin=8):
-    #try:
-        ## Spustí Microsoft Edge s daným URL
-        #subprocess.Popen(['start', 'msedge', url], shell=True)
-        #log_udalost(f"Otevřen Edge s URL: {url}")
-        #time.sleep(cekani_vterin)
-
-        # Zavře celý Edge (pozor: i ostatní okna/taby!)
-        #os.system("taskkill /IM msedge.exe /F")
-        #log_udalost("Edge zavřen.")
-    #except Exception as e:
-        #log_udalost(f"Chyba při otevírání/zavírání Edge: {e}")
-
 def load_cookies(filename):
-    import json
     with open(filename, "r", encoding="utf-8") as f:
         raw = json.load(f)
     return {cookie["name"]: cookie["value"] for cookie in raw}
@@ -44,7 +37,7 @@ def log_udalost(text):
     now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     line = f"{now}: {text}"
     print(line)
-    with open("soutez_log.txt", "a", encoding="utf-8") as f:
+    with open(LOG_SOUBOR, "a", encoding="utf-8") as f:
         f.write(line + "\n")
 
 def nacti_navstivene():
@@ -61,7 +54,7 @@ def uloz_navstiveny(odkaz):
 def je_prihlaseny(cookies):
     try:
         r = requests.get("https://www.idnes.cz/ucet", cookies=cookies, headers=HEADERS)
-        return "David Švára" in r.text
+        return "David Švára" in r.text or "Hana Vorlova" in r.text  # nebo upravit dle potřeby
     except:
         return False
 
@@ -73,8 +66,8 @@ def ziskej_odkazy_z_archivu(datum, stranka=1):
         "datum": datum,
         "idostrova": "idnes"
     }
-    r = requests.get(url, cookies=cookies, headers=HEADERS) #, params=params)
-    print(f"Ziskej odkazy z archivu: {url}")  # a parametry {params}")
+    r = requests.get(url, cookies=cookies, headers=HEADERS)
+    log_udalost(f"📄 Získávám články z: {url}")
     soup = BeautifulSoup(r.text, "html.parser")
     odkazy = []
 
@@ -83,14 +76,11 @@ def ziskej_odkazy_z_archivu(datum, stranka=1):
         if a_tag and a_tag.get("href"):
             odkazy.append(a_tag["href"])
 
-    #soup = BeautifulSoup(r.text, "html.parser")
-    #odkazy = [a["href"] for a in soup.select("a[href^='https://www.idnes.cz/']") if "/zpravy/" in a["href"]]
-    return list(set(odkazy))  # odstraní duplicity
+    return list(set(odkazy))
 
 # ==== HLAVNÍ LOGIKA ====
-
-datum_puvodni = "1. 1. 2025"  # zapsáno s mezerami
-datum = quote_plus(datum_puvodni)  # výstup bude "1.+1.+2025"
+datum_puvodni = "1. 1. 2025"
+datum = quote_plus(datum_puvodni)
 
 cookies = load_cookies(COOKIES_FILE)
 if not je_prihlaseny(cookies):
@@ -100,7 +90,6 @@ if not je_prihlaseny(cookies):
 navstivene = nacti_navstivene()
 stranka = 1
 while True:
-    log_udalost(f"Jak vypadaji promenne {datum}")
     odkazy = ziskej_odkazy_z_archivu(datum, stranka)
     if not odkazy:
         log_udalost(f"✅ Konec – žádné další články na stránce {stranka}")
@@ -114,7 +103,6 @@ while True:
         log_udalost(f"🔍 Kontroluji článek: {odkaz}")
         try:
             html = requests.get(odkaz, cookies=cookies, headers=HEADERS, timeout=10).text
-
             soup = BeautifulSoup(html, "html.parser")
             time_span = soup.find("span", class_="time-date", itemprop="datePublished")
             if time_span and time_span.get("content"):
@@ -122,12 +110,12 @@ while True:
                 log_udalost(f"📅 Datum článku: {datum_clanku}")
             else:
                 log_udalost("⚠️ Datum článku nenalezeno.")
+                datum_clanku = "9999-12-31"  # fallback
 
             last_date = "2025-03-20"
             if datum_clanku < last_date:
                 log_udalost(f"🛑 Článek je starší než {last_date}. Ukončuji cyklus.")
                 exit()
-            
 
             match = SOUTEZNI_REGEX.search(html)
             if match:
@@ -136,14 +124,9 @@ while True:
 
                 try:
                     soutez_resp = requests.get(soutez_odkaz, cookies=cookies, headers=HEADERS, timeout=10)
-                    log_udalost(f"Odeslán požadavek na soutěžní odkaz – status: {soutez_resp.status_code}")
+                    log_udalost(f"📨 Odeslán požadavek na soutěžní odkaz – status: {soutez_resp.status_code}")
                 except Exception as e:
-                    log_udalost(f"Chyba při odesílání soutěžního odkazu: {e}")
-
-
-                #requests.get(soutez_odkaz, cookies=cookies, headers=HEADERS, timeout=10)
-                #webbrowser.open(soutez_odkaz)
-                #otevri_edge_a_zavri(soutez_odkaz)
+                    log_udalost(f"❗ Chyba při odesílání soutěžního odkazu: {e}")
             else:
                 log_udalost("❌ Soutěžní odkaz nenalezen.")
         except Exception as e:
@@ -153,4 +136,3 @@ while True:
         time.sleep(random.randint(3, 10))
 
     stranka += 1
-
