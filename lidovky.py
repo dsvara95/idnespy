@@ -24,7 +24,7 @@ LOG_SOUBOR = f"soutez_log_{JMENO}.txt"
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0"
 }
-SOUTEZNI_REGEX = re.compile(r"https://www\.idnes\.cz/ekonomika/megahra-o-auto[^\"]+")
+SOUTEZNI_REGEX = re.compile(r"https://www\.idnes\.cz/auto/megahra-o-auto[^\"]+")
 
 # ==== FUNKCE ====
 def load_cookies(filename):
